@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MyFruit
+  Created by 恋康科技 on 2018/1/18.
+  Copyright © 2018年 BCTeam. All rights reserved.
+*/
+"ok" = "Reload";
+"cancel" = "Cancel";
+"title" = "Network anomaly";
+
+"MessageStr" = "In order that you can receive our information in time, please open the push function in time";
+"FirstStr" = "Next time";
+"SecondStr" = "No longer reminding";
+"ThirdStr" = "Set up immediately";

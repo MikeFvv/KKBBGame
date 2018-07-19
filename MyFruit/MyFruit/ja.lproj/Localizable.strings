@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  TeamProductFrameWork
+
+  Created by 恋康科技 on 2018/1/18.
+  Copyright © 2018年 BCTeam. All rights reserved.
+*/
+"ok" = "Reload";
+"cancel" = "Cancel";
+"title" = "Network anomaly";

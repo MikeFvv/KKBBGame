@@ -1,0 +1,312 @@
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHService.o):
+0000000000001591 t +[JPUSHService addNotification:]
+00000000000014b2 t +[JPUSHService addTags:completion:seq:]
+00000000000014f4 t +[JPUSHService beginLogPageView:duration:]
+00000000000014c4 t +[JPUSHService cleanTags:seq:]
+00000000000015cd t +[JPUSHService clearAllLocalNotifications]
+0000000000001388 t +[JPUSHService commonSetupWithOption:appKey:channel:apsForProduction:advertisingIdentifier:]
+0000000000001502 t +[JPUSHService crashLogON]
+00000000000014dc t +[JPUSHService deleteAlias:seq:]
+00000000000015c7 t +[JPUSHService deleteLocalNotification:]
+00000000000015c1 t +[JPUSHService deleteLocalNotificationWithIdentifierKey:]
+00000000000014be t +[JPUSHService deleteTags:completion:seq:]
+00000000000014fa t +[JPUSHService filterValidTags:]
+00000000000015b9 t +[JPUSHService findLocalNotificationWithIdentifier:]
+000000000000159d t +[JPUSHService findNotification:]
+00000000000014e2 t +[JPUSHService getAlias:seq:]
+00000000000014ca t +[JPUSHService getAllTags:seq:]
+0000000000001488 t +[JPUSHService handleRemoteNotification:]
+0000000000001476 t +[JPUSHService registerDeviceToken:]
+0000000000001482 t +[JPUSHService registerForRemoteNotificationConfig:delegate:]
+000000000000147c t +[JPUSHService registerForRemoteNotificationTypes:categories:]
+0000000000001528 t +[JPUSHService registrationIDCompletionHandler:]
+0000000000001520 t +[JPUSHService registrationID]
+0000000000001597 t +[JPUSHService removeNotification:]
+00000000000015db t +[JPUSHService resetBadge]
+000000000000149a t +[JPUSHService setAlias:callbackSelector:object:]
+00000000000014d6 t +[JPUSHService setAlias:completion:seq:]
+00000000000015d3 t +[JPUSHService setBadge:]
+0000000000001508 t +[JPUSHService setDebugMode]
+0000000000001514 t +[JPUSHService setLatitude:longitude:]
+00000000000015a3 t +[JPUSHService setLocalNotification:alertBody:badge:alertAction:identifierKey:userInfo:soundName:]
+00000000000015ab t +[JPUSHService setLocalNotification:alertBody:badge:alertAction:identifierKey:userInfo:soundName:region:regionTriggersOnce:category:]
+000000000000151a t +[JPUSHService setLocation:]
+000000000000150e t +[JPUSHService setLogOFF]
+00000000000015e1 t +[JPUSHService setMobileNumber:completion:]
+000000000000148e t +[JPUSHService setTags:alias:callbackSelector:object:]
+00000000000014a0 t +[JPUSHService setTags:alias:callbackSelector:target:]
+00000000000014a6 t +[JPUSHService setTags:alias:fetchCompletionHandle:]
+00000000000014ac t +[JPUSHService setTags:aliasInbackground:]
+0000000000001494 t +[JPUSHService setTags:callbackSelector:object:]
+00000000000014b8 t +[JPUSHService setTags:completion:seq:]
+0000000000001356 t +[JPUSHService setupWithOption:]
+0000000000001244 t +[JPUSHService setupWithOption:appKey:channel:apsForProduction:]
+00000000000012be t +[JPUSHService setupWithOption:appKey:channel:apsForProduction:advertisingIdentifier:]
+00000000000015b3 t +[JPUSHService showLocalNotificationAtFront:identifierKey:]
+00000000000014e8 t +[JPUSHService startLogPageView:]
+00000000000014ee t +[JPUSHService stopLogPageView:]
+00000000000014d0 t +[JPUSHService validTag:completion:seq:]
+0000000000000047 t -[JPUSHRegisterEntity .cxx_destruct]
+0000000000000022 t -[JPUSHRegisterEntity categories]
+0000000000000033 t -[JPUSHRegisterEntity setCategories:]
+0000000000000011 t -[JPUSHRegisterEntity setTypes:]
+0000000000000000 t -[JPUSHRegisterEntity types]
+0000000000001701 t -[JPUSHService userNotificationCenter:didReceiveNotificationResponse:withCompletionHandler:]
+00000000000016fb t -[JPUSHService userNotificationCenter:willPresentNotification:withCompletionHandler:]
+00000000000006eb t -[JPushNotificationContent .cxx_destruct]
+00000000000005ef t -[JPushNotificationContent action]
+000000000000067f t -[JPushNotificationContent attachments]
+00000000000005cb t -[JPushNotificationContent badge]
+00000000000005a7 t -[JPushNotificationContent body]
+0000000000000613 t -[JPushNotificationContent categoryIdentifier]
+000000000000005a t -[JPushNotificationContent copyWithZone:]
+00000000000003ec t -[JPushNotificationContent encodeWithCoder:]
+00000000000001a4 t -[JPushNotificationContent initWithCoder:]
+00000000000006c7 t -[JPushNotificationContent launchImageName]
+0000000000000602 t -[JPushNotificationContent setAction:]
+0000000000000692 t -[JPushNotificationContent setAttachments:]
+00000000000005de t -[JPushNotificationContent setBadge:]
+00000000000005ba t -[JPushNotificationContent setBody:]
+0000000000000626 t -[JPushNotificationContent setCategoryIdentifier:]
+00000000000006da t -[JPushNotificationContent setLaunchImageName:]
+000000000000066e t -[JPushNotificationContent setSound:]
+0000000000000596 t -[JPushNotificationContent setSubtitle:]
+00000000000006b6 t -[JPushNotificationContent setThreadIdentifier:]
+0000000000000572 t -[JPushNotificationContent setTitle:]
+000000000000064a t -[JPushNotificationContent setUserInfo:]
+000000000000065b t -[JPushNotificationContent sound]
+0000000000000583 t -[JPushNotificationContent subtitle]
+00000000000006a3 t -[JPushNotificationContent threadIdentifier]
+000000000000055f t -[JPushNotificationContent title]
+0000000000000637 t -[JPushNotificationContent userInfo]
+0000000000001202 t -[JPushNotificationIdentifier .cxx_destruct]
+0000000000000eec t -[JPushNotificationIdentifier copyWithZone:]
+00000000000011be t -[JPushNotificationIdentifier delivered]
+00000000000010a5 t -[JPushNotificationIdentifier encodeWithCoder:]
+00000000000011de t -[JPushNotificationIdentifier findCompletionHandler]
+0000000000001176 t -[JPushNotificationIdentifier identifiers]
+0000000000000f8f t -[JPushNotificationIdentifier initWithCoder:]
+000000000000119a t -[JPushNotificationIdentifier notificationObj]
+00000000000011ce t -[JPushNotificationIdentifier setDelivered:]
+00000000000011f1 t -[JPushNotificationIdentifier setFindCompletionHandler:]
+0000000000001189 t -[JPushNotificationIdentifier setIdentifiers:]
+00000000000011ad t -[JPushNotificationIdentifier setNotificationObj:]
+0000000000000e99 t -[JPushNotificationRequest .cxx_destruct]
+0000000000000e75 t -[JPushNotificationRequest completionHandler]
+0000000000000e2d t -[JPushNotificationRequest content]
+0000000000000b79 t -[JPushNotificationRequest copyWithZone:]
+0000000000000d3d t -[JPushNotificationRequest encodeWithCoder:]
+0000000000000c1b t -[JPushNotificationRequest initWithCoder:]
+0000000000000e09 t -[JPushNotificationRequest requestIdentifier]
+0000000000000e88 t -[JPushNotificationRequest setCompletionHandler:]
+0000000000000e40 t -[JPushNotificationRequest setContent:]
+0000000000000e1c t -[JPushNotificationRequest setRequestIdentifier:]
+0000000000000e64 t -[JPushNotificationRequest setTrigger:]
+0000000000000e51 t -[JPushNotificationRequest trigger]
+0000000000000b37 t -[JPushNotificationTrigger .cxx_destruct]
+00000000000007b5 t -[JPushNotificationTrigger copyWithZone:]
+0000000000000aef t -[JPushNotificationTrigger dateComponents]
+00000000000009a8 t -[JPushNotificationTrigger encodeWithCoder:]
+0000000000000aa7 t -[JPushNotificationTrigger fireDate]
+0000000000000872 t -[JPushNotificationTrigger initWithCoder:]
+0000000000000acb t -[JPushNotificationTrigger region]
+0000000000000a87 t -[JPushNotificationTrigger repeat]
+0000000000000b02 t -[JPushNotificationTrigger setDateComponents:]
+0000000000000aba t -[JPushNotificationTrigger setFireDate:]
+0000000000000ade t -[JPushNotificationTrigger setRegion:]
+0000000000000a97 t -[JPushNotificationTrigger setRepeat:]
+0000000000000b25 t -[JPushNotificationTrigger setTimeInterval:]
+0000000000000b13 t -[JPushNotificationTrigger timeInterval]
+0000000000002200 D _IMEventKey
+00000000000021f8 D _IMMessageKey
+                 U _JCOREDisplayVersion
+                 U _JCOREGetBuildVersion
+                 U _NSLocalizedDescriptionKey
+                 U _NSLog
+                 U _OBJC_CLASS_$_JPUSHHelper
+0000000000003930 S _OBJC_CLASS_$_JPUSHRegisterEntity
+0000000000003a98 S _OBJC_CLASS_$_JPUSHService
+0000000000003958 S _OBJC_CLASS_$_JPushNotificationContent
+0000000000003a48 S _OBJC_CLASS_$_JPushNotificationIdentifier
+00000000000039f8 S _OBJC_CLASS_$_JPushNotificationRequest
+00000000000039a8 S _OBJC_CLASS_$_JPushNotificationTrigger
+                 U _OBJC_CLASS_$_NSDictionary
+                 U _OBJC_CLASS_$_NSError
+                 U _OBJC_CLASS_$_NSNull
+                 U _OBJC_CLASS_$_NSObject
+                 U _OBJC_CLASS_$_NSString
+00000000000022d0 S _OBJC_IVAR_$_JPUSHRegisterEntity._categories
+00000000000022c8 S _OBJC_IVAR_$_JPUSHRegisterEntity._types
+00000000000022f8 S _OBJC_IVAR_$_JPushNotificationContent._action
+0000000000002318 S _OBJC_IVAR_$_JPushNotificationContent._attachments
+00000000000022f0 S _OBJC_IVAR_$_JPushNotificationContent._badge
+00000000000022e8 S _OBJC_IVAR_$_JPushNotificationContent._body
+0000000000002300 S _OBJC_IVAR_$_JPushNotificationContent._categoryIdentifier
+0000000000002328 S _OBJC_IVAR_$_JPushNotificationContent._launchImageName
+0000000000002310 S _OBJC_IVAR_$_JPushNotificationContent._sound
+00000000000022e0 S _OBJC_IVAR_$_JPushNotificationContent._subtitle
+0000000000002320 S _OBJC_IVAR_$_JPushNotificationContent._threadIdentifier
+00000000000022d8 S _OBJC_IVAR_$_JPushNotificationContent._title
+0000000000002308 S _OBJC_IVAR_$_JPushNotificationContent._userInfo
+0000000000002388 S _OBJC_IVAR_$_JPushNotificationIdentifier._delivered
+0000000000002390 S _OBJC_IVAR_$_JPushNotificationIdentifier._findCompletionHandler
+0000000000002378 S _OBJC_IVAR_$_JPushNotificationIdentifier._identifiers
+0000000000002380 S _OBJC_IVAR_$_JPushNotificationIdentifier._notificationObj
+0000000000002370 S _OBJC_IVAR_$_JPushNotificationRequest._completionHandler
+0000000000002360 S _OBJC_IVAR_$_JPushNotificationRequest._content
+0000000000002358 S _OBJC_IVAR_$_JPushNotificationRequest._requestIdentifier
+0000000000002368 S _OBJC_IVAR_$_JPushNotificationRequest._trigger
+0000000000002338 S _OBJC_IVAR_$_JPushNotificationTrigger._dateComponents
+0000000000002340 S _OBJC_IVAR_$_JPushNotificationTrigger._fireDate
+0000000000002350 S _OBJC_IVAR_$_JPushNotificationTrigger._region
+0000000000002330 S _OBJC_IVAR_$_JPushNotificationTrigger._repeat
+0000000000002348 S _OBJC_IVAR_$_JPushNotificationTrigger._timeInterval
+0000000000003908 S _OBJC_METACLASS_$_JPUSHRegisterEntity
+0000000000003ac0 S _OBJC_METACLASS_$_JPUSHService
+0000000000003980 S _OBJC_METACLASS_$_JPushNotificationContent
+0000000000003a70 S _OBJC_METACLASS_$_JPushNotificationIdentifier
+0000000000003a20 S _OBJC_METACLASS_$_JPushNotificationRequest
+00000000000039d0 S _OBJC_METACLASS_$_JPushNotificationTrigger
+                 U _OBJC_METACLASS_$_NSObject
+                 U ___CFConstantStringClassReference
+                 U ___stack_chk_fail
+                 U ___stack_chk_guard
+                 U __objc_empty_cache
+                 U _objc_getProperty
+                 U _objc_msgSend
+                 U _objc_msgSendSuper2
+                 U _objc_release
+                 U _objc_retain
+                 U _objc_retainAutoreleasedReturnValue
+                 U _objc_retainBlock
+                 U _objc_setProperty_nonatomic_copy
+                 U _objc_storeStrong
+00000000000033d0 s l_OBJC_$_CLASS_METHODS_JPUSHService
+0000000000002488 s l_OBJC_$_INSTANCE_METHODS_JPUSHRegisterEntity
+0000000000003888 s l_OBJC_$_INSTANCE_METHODS_JPUSHService
+0000000000002698 s l_OBJC_$_INSTANCE_METHODS_JPushNotificationContent
+0000000000003190 s l_OBJC_$_INSTANCE_METHODS_JPushNotificationIdentifier
+0000000000002ee8 s l_OBJC_$_INSTANCE_METHODS_JPushNotificationRequest
+0000000000002be0 s l_OBJC_$_INSTANCE_METHODS_JPushNotificationTrigger
+0000000000002508 s l_OBJC_$_INSTANCE_VARIABLES_JPUSHRegisterEntity
+0000000000002910 s l_OBJC_$_INSTANCE_VARIABLES_JPushNotificationContent
+00000000000032b8 s l_OBJC_$_INSTANCE_VARIABLES_JPushNotificationIdentifier
+0000000000003010 s l_OBJC_$_INSTANCE_VARIABLES_JPushNotificationRequest
+0000000000002d38 s l_OBJC_$_INSTANCE_VARIABLES_JPushNotificationTrigger
+0000000000002550 s l_OBJC_$_PROP_LIST_JPUSHRegisterEntity
+0000000000002a78 s l_OBJC_$_PROP_LIST_JPushNotificationContent
+0000000000003340 s l_OBJC_$_PROP_LIST_JPushNotificationIdentifier
+0000000000003098 s l_OBJC_$_PROP_LIST_JPushNotificationRequest
+0000000000002de0 s l_OBJC_$_PROP_LIST_JPushNotificationTrigger
+00000000000025e8 s l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+00000000000025c0 s l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+0000000000002620 s l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+00000000000025e0 s l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+0000000000002630 s l_OBJC_CLASS_PROTOCOLS_$_JPushNotificationContent
+0000000000003128 s l_OBJC_CLASS_PROTOCOLS_$_JPushNotificationIdentifier
+0000000000002e80 s l_OBJC_CLASS_PROTOCOLS_$_JPushNotificationRequest
+0000000000002b78 s l_OBJC_CLASS_PROTOCOLS_$_JPushNotificationTrigger
+0000000000002578 s l_OBJC_CLASS_RO_$_JPUSHRegisterEntity
+00000000000038c0 s l_OBJC_CLASS_RO_$_JPUSHService
+0000000000002b30 s l_OBJC_CLASS_RO_$_JPushNotificationContent
+0000000000003388 s l_OBJC_CLASS_RO_$_JPushNotificationIdentifier
+00000000000030e0 s l_OBJC_CLASS_RO_$_JPushNotificationRequest
+0000000000002e38 s l_OBJC_CLASS_RO_$_JPushNotificationTrigger
+0000000000004a20 S l_OBJC_LABEL_PROTOCOL_$_NSCoding
+0000000000004a18 S l_OBJC_LABEL_PROTOCOL_$_NSCopying
+0000000000002440 s l_OBJC_METACLASS_RO_$_JPUSHRegisterEntity
+0000000000003840 s l_OBJC_METACLASS_RO_$_JPUSHService
+0000000000002650 s l_OBJC_METACLASS_RO_$_JPushNotificationContent
+0000000000003148 s l_OBJC_METACLASS_RO_$_JPushNotificationIdentifier
+0000000000002ea0 s l_OBJC_METACLASS_RO_$_JPushNotificationRequest
+0000000000002b98 s l_OBJC_METACLASS_RO_$_JPushNotificationTrigger
+0000000000002268 D l_OBJC_PROTOCOL_$_NSCoding
+0000000000002208 D l_OBJC_PROTOCOL_$_NSCopying
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHLocalNotificationController.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHTagAlias.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHAliasOperation.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHTagAliasVO.o):
+00000000000000f8 t -[JPUSHTagAliasVO .cxx_destruct]
+00000000000000d4 t -[JPUSHTagAliasVO aliasCompletion]
+0000000000000068 t -[JPUSHTagAliasVO alias]
+0000000000000000 t -[JPUSHTagAliasVO opearteType]
+0000000000000022 t -[JPUSHTagAliasVO seq]
+000000000000007b t -[JPUSHTagAliasVO setAlias:]
+00000000000000e7 t -[JPUSHTagAliasVO setAliasCompletion:]
+0000000000000011 t -[JPUSHTagAliasVO setOpearteType:]
+0000000000000033 t -[JPUSHTagAliasVO setSeq:]
+00000000000000c3 t -[JPUSHTagAliasVO setTagValidCompletion:]
+0000000000000057 t -[JPUSHTagAliasVO setTags:]
+000000000000009f t -[JPUSHTagAliasVO setTagsCompletion:]
+00000000000000b0 t -[JPUSHTagAliasVO tagValidCompletion]
+000000000000008c t -[JPUSHTagAliasVO tagsCompletion]
+0000000000000044 t -[JPUSHTagAliasVO tags]
+0000000000000538 S _OBJC_CLASS_$_JPUSHTagAliasVO
+                 U _OBJC_CLASS_$_NSObject
+0000000000000178 S _OBJC_IVAR_$_JPUSHTagAliasVO._alias
+0000000000000190 S _OBJC_IVAR_$_JPUSHTagAliasVO._aliasCompletion
+0000000000000160 S _OBJC_IVAR_$_JPUSHTagAliasVO._opearteType
+0000000000000168 S _OBJC_IVAR_$_JPUSHTagAliasVO._seq
+0000000000000188 S _OBJC_IVAR_$_JPUSHTagAliasVO._tagValidCompletion
+0000000000000170 S _OBJC_IVAR_$_JPUSHTagAliasVO._tags
+0000000000000180 S _OBJC_IVAR_$_JPUSHTagAliasVO._tagsCompletion
+0000000000000510 S _OBJC_METACLASS_$_JPUSHTagAliasVO
+                 U _OBJC_METACLASS_$_NSObject
+                 U __objc_empty_cache
+                 U _objc_getProperty
+                 U _objc_setProperty_nonatomic_copy
+                 U _objc_storeStrong
+00000000000001f8 s l_OBJC_$_INSTANCE_METHODS_JPUSHTagAliasVO
+0000000000000368 s l_OBJC_$_INSTANCE_VARIABLES_JPUSHTagAliasVO
+0000000000000450 s l_OBJC_$_PROP_LIST_JPUSHTagAliasVO
+00000000000004c8 s l_OBJC_CLASS_RO_$_JPUSHTagAliasVO
+00000000000001b0 s l_OBJC_METACLASS_RO_$_JPUSHTagAliasVO
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHTagAliasManagerController.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHMessageReport.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHBadgeNumberController.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHTagsOperation.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHBadgeNumberReport.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHDeviceTokenController.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHUserPropertyController.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHUserProperty.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHSetTagAliasArg.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHSetTagAlias.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHHelper.o):
+0000000000000000 t +[JPUSHHelper JPUSHDisplayVersion]
+00000000000003c8 b _JPUSHDisplayVersionName
+0000000000000328 S _OBJC_CLASS_$_JPUSHHelper
+                 U _OBJC_CLASS_$_NSMutableString
+                 U _OBJC_CLASS_$_NSObject
+0000000000000300 S _OBJC_METACLASS_$_JPUSHHelper
+                 U _OBJC_METACLASS_$_NSObject
+                 U ___CFConstantStringClassReference
+                 U __objc_empty_cache
+                 U _objc_autoreleaseReturnValue
+                 U _objc_msgSend
+                 U _objc_release
+                 U _objc_retain
+                 U _objc_retainAutoreleasedReturnValue
+                 U _objc_storeStrong
+0000000000000250 s l_OBJC_$_CLASS_METHODS_JPUSHHelper
+00000000000002b8 s l_OBJC_CLASS_RO_$_JPUSHHelper
+0000000000000270 s l_OBJC_METACLASS_RO_$_JPUSHHelper
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHTagAliasValidation.o):
+
+/Users/air/Desktop/MyFruit/MyFruit/3rd/JPUSHServiceLib/jpush-ios-3.0.8.a(JPUSHClientController.o):

@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MyFruit
+  Created by 恋康科技 on 2018/1/18.
+  Copyright © 2018年 BCTeam. All rights reserved.
+*/
+"ok" = "重新加载";
+"cancel" = "取消";
+"title" = "网络异常";
+
+"MessageStr" = "为了您能够及时的收到我们的开奖消息，请及时打开推送功能";
+"FirstStr" = "下次再说";
+"SecondStr" = "不再提醒";
+"ThirdStr" = "立即设置";

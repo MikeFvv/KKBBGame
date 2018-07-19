@@ -1,0 +1,1945 @@
+
+//warning iconImageDisabled hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/LGAlertView/LGAlertViewButtonProperties.m
+#define iconImageDisabled iconImageDisabled 
+#define _iconImageDisabled _iconImageDisabled 
+#define setIconImageDisabled setIconImageDisabled 
+//warning SVProgressHUD hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/HUD/SVProgressHUD.m
+#define SVProgressHUD SVProgressHUD 
+//warning ViewController hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/Base.lproj/LaunchScreen.storyboard
+#define ViewController ViewController 
+//warning iconImageHighlighted hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/LGAlertView/LGAlertViewButtonProperties.m
+#define iconImageHighlighted iconImageHighlighted 
+#define _iconImageHighlighted _iconImageHighlighted 
+#define setIconImageHighlighted setIconImageHighlighted 
+//warning titleColorDisabled hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/LGAlertView/LGAlertViewButtonProperties.m
+#define titleColorDisabled titleColorDisabled 
+#define _titleColorDisabled _titleColorDisabled 
+#define setTitleColorDisabled setTitleColorDisabled 
+//warning titleColorHighlighted hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/LGAlertView/LGAlertViewButtonProperties.m
+#define titleColorHighlighted titleColorHighlighted 
+#define _titleColorHighlighted _titleColorHighlighted 
+#define setTitleColorHighlighted setTitleColorHighlighted 
+//warning backgroundColorDisabled hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/LGAlertView/LGAlertViewButtonProperties.m
+#define backgroundColorDisabled backgroundColorDisabled 
+#define _backgroundColorDisabled _backgroundColorDisabled 
+#define setBackgroundColorDisabled setBackgroundColorDisabled 
+//warning backgroundColorHighlighted hardcode in /Users/yaoming/Desktop/hgsoccer/777/MyFruit/3rd/LGAlertView/LGAlertViewButtonProperties.m
+#define backgroundColorHighlighted backgroundColorHighlighted 
+#define _backgroundColorHighlighted _backgroundColorHighlighted 
+#define setBackgroundColorHighlighted setBackgroundColorHighlighted 
+
+
+#if (DEBUG != 1)
+
+//--------------------Obfuscator--------------------
+
+#ifndef SVIndefiniteAnimatedView
+#define SVIndefiniteAnimatedView _STC24A16248A740669B580D1DCB9409D508_
+#endif
+#ifndef LGAlertViewCell
+#define LGAlertViewCell _STCCFB2606E237F7946E1D31D735B8AF808_
+#endif
+#ifndef SVRadialGradientLayer
+#define SVRadialGradientLayer _STC5B764803941B359304423AFB745F2036_
+#endif
+#ifndef BottomToolbar
+#define BottomToolbar _STCB891B59FC476C0D650834C4F178219A3_
+#endif
+#ifndef SVProgressHUD
+#define SVProgressHUD _STCD77323A9C2E48C117045F0365CB4E519_
+#endif
+#ifndef LGAlertViewShadowView
+#define LGAlertViewShadowView _STCC127BFAE9D0F4C3C4D604A5BF0EDC0C5_
+#endif
+#ifndef LGAlertViewHelper
+#define LGAlertViewHelper _STCB223AFF39EF333EDDDB86F787B7B2F9F_
+#endif
+#ifndef Reachability
+#define Reachability _STCDB9020044B3FD0EFEA0349C238B08DBA_
+#endif
+#ifndef LGAlertViewButton
+#define LGAlertViewButton _STCBC6565F45D37435918BF3163B250197F_
+#endif
+#ifndef LGAlertViewWindowsObserver
+#define LGAlertViewWindowsObserver _STCA2F94BEB40B23372B9324D508B691690_
+#endif
+#ifndef NetworkRequest
+#define NetworkRequest _STC3C294F6ECF0CC433ACA6D8DB84287AE6_
+#endif
+#ifndef ViewController
+#define ViewController _STC6F12C7F9CEBC94352FA963C0C6697742_
+#endif
+#ifndef LGAlertViewController
+#define LGAlertViewController _STC3F293478A5DC4EE1B41CD7E3362E0C3D_
+#endif
+#ifndef LGBCPromptView
+#define LGBCPromptView _STC25738B4B7EA60F5FB37D3C3956A03E8D_
+#endif
+#ifndef KeyChainStore
+#define KeyChainStore _STC79943E7761C8F411DF29DA541851EB71_
+#endif
+#ifndef AppDelegate
+#define AppDelegate _STC30596CAD6F5145231B119344A9886473_
+#endif
+#ifndef JPUSHConfigure
+#define JPUSHConfigure _STC72D9C1B687809B7937E8EFF13A5DECE2_
+#endif
+#ifndef LGAlertViewButtonProperties
+#define LGAlertViewButtonProperties _STC7505315D376A8A77057B685471087267_
+#endif
+#ifndef SVProgressAnimatedView
+#define SVProgressAnimatedView _STC7B378ABF881C99D60DAA0AB762F5B27E_
+#endif
+#ifndef LGAlertViewWindowContainer
+#define LGAlertViewWindowContainer _STCCDFC9E2BA32E0B7CB5857031AC00CC97_
+#endif
+#ifndef LGAlertView
+#define LGAlertView _STC1E6030A641C2C508393A6B44B33DD1A4_
+#endif
+#ifndef loadSource
+#define loadSource _STCB43E626CA412B2E242C1479A909014A4_
+#endif
+#ifndef containerWithWindow
+#define containerWithWindow _STC91FF681810C33CD0BD8CE3D694BD41AF_
+#endif
+#ifndef subviewsValidateWithSize
+#define subviewsValidateWithSize _STC5D940D48755AEEAC4BFD3A3415CE1F08_
+#endif
+#ifndef getKeychainQuery
+#define getKeychainQuery _STCDD19F50655C1982B4172B6FA35CCA054_
+#endif
+#ifndef showSuccessWithStatus
+#define showSuccessWithStatus _STC8453868F9F185BD7F0D811C6383BC15C_
+#endif
+#ifndef showStatus
+#define showStatus _STC10FF51E1F2C50C7D87D2C3AE73EE2219_
+#endif
+#ifndef foregroundColorForStyle
+#define foregroundColorForStyle _STC26E7BB220DCB756C0F94DE32A568633C_
+#endif
+#ifndef secondButtonAction
+#define secondButtonAction _STC26097E86996A90C8BAEAF9C0FEF2D936_
+#endif
+#ifndef clearBackgrounds
+#define clearBackgrounds _STCF671236CC726B36FD3698A0F276088B4_
+#endif
+#ifndef dismissAnimations
+#define dismissAnimations _STCF2B662F8BF3CD006D9CD2882F8E83115_
+#endif
+#ifndef layoutAnimatedLayer
+#define layoutAnimatedLayer _STC3BAE88A1F6A44B33CA2AA2ACA61AF7F1_
+#endif
+#ifndef isUserNumberOfLines
+#define isUserNumberOfLines _STC709207FE77CC06B73A3652048DE86806_
+#endif
+#ifndef showWithMaskType
+#define showWithMaskType _STC2273FC7187092555705388721D2B2E00_
+#endif
+#ifndef forceDestructive
+#define forceDestructive _STC24213D381A43A2B719014208D550EBC8_
+#endif
+#ifndef transitionToAlertView
+#define transitionToAlertView _STCFFC80A6A61001150D83DBF4A78C2812E_
+#endif
+#ifndef isPadAndNotForce
+#define isPadAndNotForce _STC41D668672BBFDC2C2B75C54C4FB9150C_
+#endif
+#ifndef timetoJudge
+#define timetoJudge _STCE9D51D9BD7234CCC8E0EDE278865827F_
+#endif
+#ifndef firstButtonAction
+#define firstButtonAction _STC782EF1996C3315D60F804401A6C47763_
+#endif
+#ifndef innerMarginHeight
+#define innerMarginHeight _STC80A6CD13586334E6424AD718238E4ABE_
+#endif
+#ifndef isUserIconImage
+#define isUserIconImage _STC46A8EB9086EB131E100C735C69E3E3FC_
+#endif
+#ifndef cancelRingLayerAnimation
+#define cancelRingLayerAnimation _STC77164F40AC8B1B653DC90D40C4635D98_
+#endif
+#ifndef image1x1WithColor
+#define image1x1WithColor _STC16C233B76A8DDA6CDDE8684AA8A03C64_
+#endif
+#ifndef isViewControllerBasedStatusBarAppearance
+#define isViewControllerBasedStatusBarAppearance _STC74D110F0C76329F1BB0491F92EEB5F9F_
+#endif
+#ifndef isDestructiveButtonAdjustsFontSizeToFitWidth
+#define isDestructiveButtonAdjustsFontSizeToFitWidth _STC3F8651B849CB28D1AED08CF79D4C4F86_
+#endif
+#ifndef backgroundColorForStyle
+#define backgroundColorForStyle _STC3A148D56973320B8A29876940D0DED89_
+#endif
+#ifndef isUserTitleColorDisabled
+#define isUserTitleColorDisabled _STC8E899C60099921A9C82F9DBCE9A77CCB_
+#endif
+#ifndef keyboardFrameChanged
+#define keyboardFrameChanged _STC5F0494A994A881A1C3A4C4CC331F1520_
+#endif
+#ifndef maskType
+#define maskType _STCE0143A54B398AC8CEBDB82CD8226D24D_
+#endif
+#ifndef dismissComplete
+#define dismissComplete _STC86109758D95CF27D5E0223F10678C135_
+#endif
+#ifndef resetOffsetFromCenter
+#define resetOffsetFromCenter _STC9CE2BFEEA08A5C268687683AB0217A82_
+#endif
+#ifndef sharedView
+#define sharedView _STCA5B1A7FB9B4919CEE6BB773A832638BC_
+#endif
+#ifndef setupDefaults
+#define setupDefaults _STC9F28C359B7AB8902B0569F1037D80BE6_
+#endif
+#ifndef removeObservers
+#define removeObservers _STC6AAF565EF317CCB94FD929E10FC5EBAA_
+#endif
+#ifndef isUserMinimimScaleFactor
+#define isUserMinimimScaleFactor _STCE856049BBBA9D9C877EF143F2E49E5FB_
+#endif
+#ifndef rotateAngle
+#define rotateAngle _STC18A915FD36DE252774171CC9F5CE36BA_
+#endif
+#ifndef updateMask
+#define updateMask _STCCA272F8E7586146DA6FB10BB8E2255CA_
+#endif
+#ifndef keyboardVisibleChanged
+#define keyboardVisibleChanged _STCAF56208F7B766D75CF7A20A5EAB23B4E_
+#endif
+#ifndef transitionToAlertView
+#define transitionToAlertView _STCFFC80A6A61001150D83DBF4A78C2812E_
+#endif
+#ifndef isUserBackgroundColorHighlighted
+#define isUserBackgroundColorHighlighted _STC567778784D1322BDBFAD4AC285803859_
+#endif
+#ifndef isUserButtonsHeight
+#define isUserButtonsHeight _STCCF33E137CF644438919C02A022310F72_
+#endif
+#ifndef isUserTitleColor
+#define isUserTitleColor _STC215B870E603C68D5174291B1C5A377C1_
+#endif
+#ifndef isCancelOnTouch
+#define isCancelOnTouch _STC7CCCB90C13C377EFE335A3FE4DA87AFC_
+#endif
+#ifndef isShowsVerticalScrollIndicator
+#define isShowsVerticalScrollIndicator _STC71028D3A4DEB159A9CDA369A93A6F618_
+#endif
+#ifndef showWithCompletion
+#define showWithCompletion _STCB2A111AEAEF8C7496057EBC41D8DEF80_
+#endif
+#ifndef setupSubViews
+#define setupSubViews _STC09655E86CAAD576ECCD710BAE49EA3E0_
+#endif
+#ifndef rotateOrientation
+#define rotateOrientation _STC6787FB620D9E5DA0063E96E1CB635A57_
+#endif
+#ifndef sharedAlertViewForAppearance
+#define sharedAlertViewForAppearance _STCB33E3D971716505C4166CD966BDC074E_
+#endif
+#ifndef addObservers
+#define addObservers _STC3E408E3EA7B008F11D4FEDFD06FF7A62_
+#endif
+#ifndef updateBlurBounds
+#define updateBlurBounds _STC789F92FE728FE752E14CEBEDDC6B9CD4_
+#endif
+#ifndef willShowCallback
+#define willShowCallback _STCB1C6C094383777D583E5CFC26B2AD1C9_
+#endif
+#ifndef isUserButtonsBackgroundColorHighlighted
+#define isUserButtonsBackgroundColorHighlighted _STCBB55E13AAEDF0E3D305E5E8214BCF9C9_
+#endif
+#ifndef dismissWithDelay
+#define dismissWithDelay _STCA63D33AD9A7FCE0E3083FA0E48EF227E_
+#endif
+#ifndef removeWebCache
+#define removeWebCache _STC19B0B88D2DF672AED13F29DF90547AC0_
+#endif
+#ifndef forceActionAtIndex
+#define forceActionAtIndex _STCF128777A4ACAF464789B0C54666CDF25_
+#endif
+#ifndef isUserCancelButtonTitleColor
+#define isUserCancelButtonTitleColor _STC9466A631E15375F66AEFFC1A125C840E_
+#endif
+#ifndef isUserIconImageHighlighted
+#define isUserIconImageHighlighted _STC037DF18F5ED743FBDA595A9310773A68_
+#endif
+#ifndef configCell
+#define configCell _STC680D0CDC471FD71AB058249A0C487C55_
+#endif
+#ifndef isUserCancelButtonBackgroundColorHighlighted
+#define isUserCancelButtonBackgroundColorHighlighted _STC415ECABC4DC9A9606771DBE10110D814_
+#endif
+#ifndef isUserTitleColorHighlighted
+#define isUserTitleColorHighlighted _STCF4F6CD3EB9E5334CE12C7B065B4A57CA_
+#endif
+#ifndef isPad
+#define isPad _STCA09F20341D594143A7855A7CC4A713D4_
+#endif
+#ifndef JudgeNoticeIsOpen
+#define JudgeNoticeIsOpen _STC8AC32118E93478CAEEB4DDC940D43E81_
+#endif
+#ifndef isUserTitleFont
+#define isUserTitleFont _STC9CDD383568F71CFC914987E687FF9686_
+#endif
+#ifndef destructiveAction
+#define destructiveAction _STCDB8623FA9B03E671F31D662E14BCF371_
+#endif
+#ifndef isUserAdjustsFontSizeTofitWidth
+#define isUserAdjustsFontSizeTofitWidth _STC345ABD4456EC0FAB1361315854DD0134_
+#endif
+#ifndef updateViewHierachy
+#define updateViewHierachy _STC4C51B549AA0ECC30CF84D8CE9100F4E7_
+#endif
+#ifndef isUserFont
+#define isUserFont _STC30F991E9C9F567421A163414A7BA125D_
+#endif
+#ifndef cancelIndefiniteAnimatedViewAnimation
+#define cancelIndefiniteAnimatedViewAnimation _STC920DD570546E3A298E753B10538E2EAF_
+#endif
+#ifndef isClear
+#define isClear _STC7D21EC7779C07C08A552AB391A4E23BA_
+#endif
+#ifndef cancelButtonInit
+#define cancelButtonInit _STC7F8283C3376D496C25716D5D74A53E12_
+#endif
+#ifndef isUserCancelOnTouch
+#define isUserCancelOnTouch _STC370CC88DAAED11F89B817B4BCBDC5E4E_
+#endif
+#ifndef isUserLineBreakMode
+#define isUserLineBreakMode _STC0F2BC9BE010707EA70CBB76BA798C408_
+#endif
+#ifndef isNotRetina
+#define isNotRetina _STCD55A859794A8009663B3C3E77E6535D8_
+#endif
+#ifndef getPercentage
+#define getPercentage _STC5FB519689AB76BE8D0EC452DC8388010_
+#endif
+#ifndef isUserBackgroundColorDisabled
+#define isUserBackgroundColorDisabled _STCD2192E06482684FE01FE81308EA448D3_
+#endif
+#ifndef keyboardAnimateWithNotificationUserInfo
+#define keyboardAnimateWithNotificationUserInfo _STCE77ABCEBB3C08CF1457089A4204D453B_
+#endif
+#ifndef showComplete
+#define showComplete _STCD4CA5D3D26042EA318692A143525032A_
+#endif
+#ifndef loadGame
+#define loadGame _STC5B46335D570ADCB0454582580FB75A7E_
+#endif
+#ifndef isDestructiveButtonEnabled
+#define isDestructiveButtonEnabled _STC47B97BF25299874535399B4CE7726F6B_
+#endif
+#ifndef isUserEnabled
+#define isUserEnabled _STCED3A8AF5E02F3CEE5BD1D0AC53617027_
+#endif
+#ifndef isPadShowsActionSheetFromBottom
+#define isPadShowsActionSheetFromBottom _STCDECB24057E17A40A2443E6E05CECE26C_
+#endif
+#ifndef isUserMessageTextColor
+#define isUserMessageTextColor _STC152196101D1AFCF416F0D31EF12A97EC_
+#endif
+#ifndef forceCancel
+#define forceCancel _STC02AD8573FE2DFB1CDE8C80A28E21CDDA_
+#endif
+#ifndef isAlertViewValid
+#define isAlertViewValid _STC750DBD9C95F3E3D0D9A0B93B36D3A77E_
+#endif
+#ifndef didDismissCallback
+#define didDismissCallback _STC8423DC0221D4A13217C98F42D7CC02E9_
+#endif
+#ifndef popActivity
+#define popActivity _STCAB509D4FA512B5C59DCFB6CE7977B44E_
+#endif
+#ifndef isOneRowOneButton
+#define isOneRowOneButton _STCB86E7F0E2EB58C58EC67F544C512C957_
+#endif
+#ifndef isExists
+#define isExists _STC56EE97885305A447401EEE925EDE8125_
+#endif
+#ifndef overlayViewDidReceiveTouchEvent
+#define overlayViewDidReceiveTouchEvent _STC023A852B051D061A449022F9D518C7C5_
+#endif
+#ifndef isCancelButtonSeparate
+#define isCancelButtonSeparate _STC0352A061168E93709E97C15B980DA4AF_
+#endif
+#ifndef didShowCallback
+#define didShowCallback _STC86BE48648D1684B24914DE68D8CE8377_
+#endif
+#ifndef showWithStatus
+#define showWithStatus _STC69F24DF361C1F59FAB479D0C36D7C785_
+#endif
+#ifndef maskType
+#define maskType _STCE0143A54B398AC8CEBDB82CD8226D24D_
+#endif
+#ifndef reachabilityWithAddress
+#define reachabilityWithAddress _STC17C7A836FCA1F04D9D6A3800C29C70EC_
+#endif
+#ifndef isButtonEnabledAtIndex
+#define isButtonEnabledAtIndex _STCFB25A09F62943CAF7987381BFF47F2A3_
+#endif
+#ifndef notificationUserInfo
+#define notificationUserInfo _STCA01F20F1F6C934EEA5E84CAAB501E6F7_
+#endif
+#ifndef showErrorWithStatus
+#define showErrorWithStatus _STC763DB3D85EBA28995DD7CA8D6B458510_
+#endif
+#ifndef maskType
+#define maskType _STCE0143A54B398AC8CEBDB82CD8226D24D_
+#endif
+#ifndef isUserIconPosition
+#define isUserIconPosition _STCD78BFB84BCE9F34A210656F962A64AF0_
+#endif
+#ifndef isButtonsAdjustsFontSizeToFitWidth
+#define isButtonsAdjustsFontSizeToFitWidth _STCEC3C1DFDE34FBF50BE8928C52BA9907E_
+#endif
+#ifndef adjustState
+#define adjustState _STC645467784829116C2EAD3F6659064A46_
+#endif
+#ifndef registerNotifications
+#define registerNotifications _STCD6D3F424E68FD65F8C24E62F8D0AF814_
+#endif
+#ifndef isWindowsArrayContains
+#define isWindowsArrayContains _STCEF2314D7967F3A7F7708877FB6A93046_
+#endif
+#ifndef showErrorWithStatus
+#define showErrorWithStatus _STC763DB3D85EBA28995DD7CA8D6B458510_
+#endif
+#ifndef layoutValidateWithSize
+#define layoutValidateWithSize _STCF4DA25D5652DCEC1F537B316F1F4DCB6_
+#endif
+#ifndef deleteKeyData
+#define deleteKeyData _STC8061105A305D0D34BB6ACC7A7D34D54A_
+#endif
+#ifndef thirdButtonAction
+#define thirdButtonAction _STCA10D6701267A233664C9DF347C98C4FC_
+#endif
+#ifndef updateMotionEffectForXMotionEffectType
+#define updateMotionEffectForXMotionEffectType _STCC471548EB34D480A729E8B4331B0E7A6_
+#endif
+#ifndef yMotionEffectType
+#define yMotionEffectType _STC4FB5780825140563539841028BD6C25C_
+#endif
+#ifndef lastWindow
+#define lastWindow _STC0EF17C240C2DFC5B1DFA0420F4703BB4_
+#endif
+#ifndef isUserBackgroundColor
+#define isUserBackgroundColor _STC283799FF1CBF39FA8BD155F3D22F7E77_
+#endif
+#ifndef isDismissOnAction
+#define isDismissOnAction _STCA971560346CC6A3FDAF20B230464B8EE_
+#endif
+#ifndef positionHUD
+#define positionHUD _STCE61B03D21F8B36E167F0B9255B87B07F_
+#endif
+#ifndef netWorkFaild
+#define netWorkFaild _STC6045CD190D5174FD2C58441A7747C02A_
+#endif
+#ifndef separatorHeight
+#define separatorHeight _STC92CDECF138907B422821F232CE66F61A_
+#endif
+#ifndef isAdjustsFontSizeToFitWidth
+#define isAdjustsFontSizeToFitWidth _STC0A9586F1D252A00C2798ED1BFF0A8206_
+#endif
+#ifndef isCancelButtonEnabled
+#define isCancelButtonEnabled _STCF975BCB4D7E3462A1328C52BA3ABB0F0_
+#endif
+#ifndef isUserTextAlignment
+#define isUserTextAlignment _STC7847BC4637B9C133E20B5D44693AF354_
+#endif
+#ifndef isUserActivityIndicatorViewColor
+#define isUserActivityIndicatorViewColor _STC6532A3652D986062AADF2DF8D1F0775A_
+#endif
+#ifndef backHome
+#define backHome _STC2D5100D9D4847C78255C0D8711A22CBE_
+#endif
+#ifndef isUserIconImageDisabled
+#define isUserIconImageDisabled _STC7DAC577F96A2174A71D26A1B4D371077_
+#endif
+#ifndef showInfoWithStatus
+#define showInfoWithStatus _STC3C49A3F0A3C9C214687594EFCF476BBD_
+#endif
+#ifndef maskType
+#define maskType _STCE0143A54B398AC8CEBDB82CD8226D24D_
+#endif
+#ifndef displayDurationForString
+#define displayDurationForString _STCEE261084FFD0182EF7FF3A1A12E42439_
+#endif
+#ifndef isUserTitleTextColor
+#define isUserTitleTextColor _STC2BF6F30D054D4D8CE7D1607F83038CF4_
+#endif
+#ifndef showSuccessWithStatus
+#define showSuccessWithStatus _STC8453868F9F185BD7F0D811C6383BC15C_
+#endif
+#ifndef maskType
+#define maskType _STCE0143A54B398AC8CEBDB82CD8226D24D_
+#endif
+#ifndef isUserButtonsTitleColor
+#define isUserButtonsTitleColor _STC7EE85F2EAB29AB69BE02229B675E2517_
+#endif
+#ifndef setWebFrame
+#define setWebFrame _STCF7BE2B5FA19B5C38C652D55F5F96835F_
+#endif
+#ifndef isCancelButtonAdjustsFontSizeToFitWidth
+#define isCancelButtonAdjustsFontSizeToFitWidth _STC58BB2DB2CC426965EDC1D0288AAADC22_
+#endif
+#ifndef windowVisibleChanged
+#define windowVisibleChanged _STC98492F5AF7EB977122B5356E31E12B9C_
+#endif
+#ifndef isUserProgressViewProgressTintColor
+#define isUserProgressViewProgressTintColor _STC43CB656D1A335DF355B322E22F87BC99_
+#endif
+#ifndef willDismissCallback
+#define willDismissCallback _STC91F580A0857A3CF5A6291E0DEC2701B3_
+#endif
+#ifndef updateHUDFrame
+#define updateHUDFrame _STC06FD2ADFCF5358599847FB829C898585_
+#endif
+#ifndef updateMotionEffectForOrientation
+#define updateMotionEffectForOrientation _STCA1F70ECB25C4CFA24F252528AB07FDE3_
+#endif
+#ifndef getWithUrlString
+#define getWithUrlString _STC9E3E87AD986F8EB1A341C64A338DD09F_
+#endif
+#ifndef appWindow
+#define appWindow _STC3BDDCE8567DB6FA6D410B90F43F3621E_
+#endif
+#ifndef rotatingScreen
+#define rotatingScreen _STC3D00C65724BD43A0DB38763367E31CD5_
+#endif
+#ifndef showInfoWithStatus
+#define showInfoWithStatus _STC3C49A3F0A3C9C214687594EFCF476BBD_
+#endif
+#ifndef showAnimations
+#define showAnimations _STC1C93F43A2BDCB834A57049472742F4F0_
+#endif
+#ifndef showWithStatus
+#define showWithStatus _STC69F24DF361C1F59FAB479D0C36D7C785_
+#endif
+#ifndef destructiveButtonBackgroundColor
+#define destructiveButtonBackgroundColor _STC717A7D1D45D001562813277CE804A9C2_
+#endif
+#ifndef _destructiveButtonBackgroundColor
+#define _destructiveButtonBackgroundColor __STC717A7D1D45D001562813277CE804A9C2_
+#endif
+#ifndef setDestructiveButtonBackgroundColor
+#define setDestructiveButtonBackgroundColor set_STC717A7D1D45D001562813277CE804A9C2_
+#endif
+#ifndef progressLabelNumberOfLines
+#define progressLabelNumberOfLines _STC9F18389E6B64BE8FDC62CECFAF5D20B2_
+#endif
+#ifndef _progressLabelNumberOfLines
+#define _progressLabelNumberOfLines __STC9F18389E6B64BE8FDC62CECFAF5D20B2_
+#endif
+#ifndef setProgressLabelNumberOfLines
+#define setProgressLabelNumberOfLines set_STC9F18389E6B64BE8FDC62CECFAF5D20B2_
+#endif
+#ifndef fadeOutTimer
+#define fadeOutTimer _STCBC401E044AD85CD562CCCF83BB7CD77C_
+#endif
+#ifndef _fadeOutTimer
+#define _fadeOutTimer __STCBC401E044AD85CD562CCCF83BB7CD77C_
+#endif
+#ifndef setFadeOutTimer
+#define setFadeOutTimer set_STCBC401E044AD85CD562CCCF83BB7CD77C_
+#endif
+#ifndef buttonsTitleColorHighlighted
+#define buttonsTitleColorHighlighted _STC8FBD70D53D0E64648E7DE2E9286CA2BD_
+#endif
+#ifndef _buttonsTitleColorHighlighted
+#define _buttonsTitleColorHighlighted __STC8FBD70D53D0E64648E7DE2E9286CA2BD_
+#endif
+#ifndef setButtonsTitleColorHighlighted
+#define setButtonsTitleColorHighlighted set_STC8FBD70D53D0E64648E7DE2E9286CA2BD_
+#endif
+#ifndef destructiveButtonNumberOfLines
+#define destructiveButtonNumberOfLines _STCEFB29299FAC68490369C9B8EB489B8D2_
+#endif
+#ifndef _destructiveButtonNumberOfLines
+#define _destructiveButtonNumberOfLines __STCEFB29299FAC68490369C9B8EB489B8D2_
+#endif
+#ifndef setDestructiveButtonNumberOfLines
+#define setDestructiveButtonNumberOfLines set_STCEFB29299FAC68490369C9B8EB489B8D2_
+#endif
+#ifndef textFieldsBackgroundColor
+#define textFieldsBackgroundColor _STC9C72EA396571154C050248647A8F33EE_
+#endif
+#ifndef _textFieldsBackgroundColor
+#define _textFieldsBackgroundColor __STC9C72EA396571154C050248647A8F33EE_
+#endif
+#ifndef setTextFieldsBackgroundColor
+#define setTextFieldsBackgroundColor set_STC9C72EA396571154C050248647A8F33EE_
+#endif
+#ifndef heightMax
+#define heightMax _STCB084940BD577F55AED2342E4BBB04EFA_
+#endif
+#ifndef _heightMax
+#define _heightMax __STCB084940BD577F55AED2342E4BBB04EFA_
+#endif
+#ifndef setHeightMax
+#define setHeightMax set_STCB084940BD577F55AED2342E4BBB04EFA_
+#endif
+#ifndef cancelButtonCenterHidden
+#define cancelButtonCenterHidden _STC162F9599CF5C2B2F2B399C5543D6AEB9_
+#endif
+#ifndef _cancelButtonCenterHidden
+#define _cancelButtonCenterHidden __STC162F9599CF5C2B2F2B399C5543D6AEB9_
+#endif
+#ifndef setCancelButtonCenterHidden
+#define setCancelButtonCenterHidden set_STC162F9599CF5C2B2F2B399C5543D6AEB9_
+#endif
+#ifndef gradientCenter
+#define gradientCenter _STC6776AE8A2DDB130A0CAF6059E1752177_
+#endif
+#ifndef _gradientCenter
+#define _gradientCenter __STC6776AE8A2DDB130A0CAF6059E1752177_
+#endif
+#ifndef setGradientCenter
+#define setGradientCenter set_STC6776AE8A2DDB130A0CAF6059E1752177_
+#endif
+#ifndef cancelButtonCenterShowed
+#define cancelButtonCenterShowed _STCE2E0977F8B041B6F15E5DB2938000116_
+#endif
+#ifndef _cancelButtonCenterShowed
+#define _cancelButtonCenterShowed __STCE2E0977F8B041B6F15E5DB2938000116_
+#endif
+#ifndef setCancelButtonCenterShowed
+#define setCancelButtonCenterShowed set_STCE2E0977F8B041B6F15E5DB2938000116_
+#endif
+#ifndef progressViewProgressImage
+#define progressViewProgressImage _STCD9118068A42751877D325E69B001F50A_
+#endif
+#ifndef _progressViewProgressImage
+#define _progressViewProgressImage __STCD9118068A42751877D325E69B001F50A_
+#endif
+#ifndef setProgressViewProgressImage
+#define setProgressViewProgressImage set_STCD9118068A42751877D325E69B001F50A_
+#endif
+#ifndef activityIndicatorViewColor
+#define activityIndicatorViewColor _STCE225ACB38EFE3081E6C6CEC9080508B2_
+#endif
+#ifndef _activityIndicatorViewColor
+#define _activityIndicatorViewColor __STCE225ACB38EFE3081E6C6CEC9080508B2_
+#endif
+#ifndef setActivityIndicatorViewColor
+#define setActivityIndicatorViewColor set_STCE225ACB38EFE3081E6C6CEC9080508B2_
+#endif
+#ifndef messageTextColor
+#define messageTextColor _STC6058BDFF6FB9786180ED054BC049CD53_
+#endif
+#ifndef _messageTextColor
+#define _messageTextColor __STC6058BDFF6FB9786180ED054BC049CD53_
+#endif
+#ifndef setMessageTextColor
+#define setMessageTextColor set_STC6058BDFF6FB9786180ED054BC049CD53_
+#endif
+#ifndef didDismissAfterCancelHandler
+#define didDismissAfterCancelHandler _STC80BE65B68C388CA54A436DBBE281CA21_
+#endif
+#ifndef _didDismissAfterCancelHandler
+#define _didDismissAfterCancelHandler __STC80BE65B68C388CA54A436DBBE281CA21_
+#endif
+#ifndef setDidDismissAfterCancelHandler
+#define setDidDismissAfterCancelHandler set_STC80BE65B68C388CA54A436DBBE281CA21_
+#endif
+#ifndef fdNumber
+#define fdNumber _STCEE3D0BB2B50817AB78774736E1C8848B_
+#endif
+#ifndef _fdNumber
+#define _fdNumber __STCEE3D0BB2B50817AB78774736E1C8848B_
+#endif
+#ifndef setFdNumber
+#define setFdNumber set_STCEE3D0BB2B50817AB78774736E1C8848B_
+#endif
+#ifndef buttonsPropertiesDictionary
+#define buttonsPropertiesDictionary _STCDA8F3B01B791B839024EDE80A0DDD361_
+#endif
+#ifndef _buttonsPropertiesDictionary
+#define _buttonsPropertiesDictionary __STCDA8F3B01B791B839024EDE80A0DDD361_
+#endif
+#ifndef setButtonsPropertiesDictionary
+#define setButtonsPropertiesDictionary set_STCDA8F3B01B791B839024EDE80A0DDD361_
+#endif
+#ifndef coverAlpha
+#define coverAlpha _STC097195E5B75464F2793A06AC8C0E12AF_
+#endif
+#ifndef _coverAlpha
+#define _coverAlpha __STC097195E5B75464F2793A06AC8C0E12AF_
+#endif
+#ifndef setCoverAlpha
+#define setCoverAlpha set_STC097195E5B75464F2793A06AC8C0E12AF_
+#endif
+#ifndef textFieldsMinimumFontSize
+#define textFieldsMinimumFontSize _STC3A32080030186A1FC389A4E29FDEC491_
+#endif
+#ifndef _textFieldsMinimumFontSize
+#define _textFieldsMinimumFontSize __STC3A32080030186A1FC389A4E29FDEC491_
+#endif
+#ifndef setTextFieldsMinimumFontSize
+#define setTextFieldsMinimumFontSize set_STC3A32080030186A1FC389A4E29FDEC491_
+#endif
+#ifndef shouldDismissAnimated
+#define shouldDismissAnimated _STCE4F94F0F9BAEB8657847A901979973DB_
+#endif
+#ifndef _shouldDismissAnimated
+#define _shouldDismissAnimated __STCE4F94F0F9BAEB8657847A901979973DB_
+#endif
+#ifndef setShouldDismissAnimated
+#define setShouldDismissAnimated set_STCE4F94F0F9BAEB8657847A901979973DB_
+#endif
+#ifndef cancelButtonTitleColorHighlighted
+#define cancelButtonTitleColorHighlighted _STC5679E1D58CC383608125305D66FBF65C_
+#endif
+#ifndef _cancelButtonTitleColorHighlighted
+#define _cancelButtonTitleColorHighlighted __STC5679E1D58CC383608125305D66FBF65C_
+#endif
+#ifndef setCancelButtonTitleColorHighlighted
+#define setCancelButtonTitleColorHighlighted set_STC5679E1D58CC383608125305D66FBF65C_
+#endif
+#ifndef destructiveButtonTitleColorDisabled
+#define destructiveButtonTitleColorDisabled _STCE04E8AA9EB24D62BCD479553C16C78F3_
+#endif
+#ifndef _destructiveButtonTitleColorDisabled
+#define _destructiveButtonTitleColorDisabled __STCE04E8AA9EB24D62BCD479553C16C78F3_
+#endif
+#ifndef setDestructiveButtonTitleColorDisabled
+#define setDestructiveButtonTitleColorDisabled set_STCE04E8AA9EB24D62BCD479553C16C78F3_
+#endif
+#ifndef buttonEnabledatIndex
+#define buttonEnabledatIndex _STC5F86DE7B9FDFA666495842505021B0F9_
+#endif
+#ifndef _buttonEnabledatIndex
+#define _buttonEnabledatIndex __STC5F86DE7B9FDFA666495842505021B0F9_
+#endif
+#ifndef setButtonEnabledatIndex
+#define setButtonEnabledatIndex set_STC5F86DE7B9FDFA666495842505021B0F9_
+#endif
+#ifndef textFieldsClearButtonMode
+#define textFieldsClearButtonMode _STCCC12230B35689845B5CD70944D606CE1_
+#endif
+#ifndef _textFieldsClearButtonMode
+#define _textFieldsClearButtonMode __STCCC12230B35689845B5CD70944D606CE1_
+#endif
+#ifndef setTextFieldsClearButtonMode
+#define setTextFieldsClearButtonMode set_STCCC12230B35689845B5CD70944D606CE1_
+#endif
+#ifndef destructiveButtonBackgroundColorDisabled
+#define destructiveButtonBackgroundColorDisabled _STC24E3821EFD38F4417FC914F24B2A169A_
+#endif
+#ifndef _destructiveButtonBackgroundColorDisabled
+#define _destructiveButtonBackgroundColorDisabled __STC24E3821EFD38F4417FC914F24B2A169A_
+#endif
+#ifndef setDestructiveButtonBackgroundColorDisabled
+#define setDestructiveButtonBackgroundColorDisabled set_STC24E3821EFD38F4417FC914F24B2A169A_
+#endif
+#ifndef thirdButton
+#define thirdButton _STC7BB0C24FAEBC32FDC2DD57EEC8402687_
+#endif
+#ifndef _thirdButton
+#define _thirdButton __STC7BB0C24FAEBC32FDC2DD57EEC8402687_
+#endif
+#ifndef setThirdButton
+#define setThirdButton set_STC7BB0C24FAEBC32FDC2DD57EEC8402687_
+#endif
+#ifndef buttonsMinimumScaleFactor
+#define buttonsMinimumScaleFactor _STCE9CF5A659ACA689ED04092E9949E046C_
+#endif
+#ifndef _buttonsMinimumScaleFactor
+#define _buttonsMinimumScaleFactor __STCE9CF5A659ACA689ED04092E9949E046C_
+#endif
+#ifndef setButtonsMinimumScaleFactor
+#define setButtonsMinimumScaleFactor set_STCE9CF5A659ACA689ED04092E9949E046C_
+#endif
+#ifndef homeUrlstring
+#define homeUrlstring _STC1CC47BB0576E8EE12DBA82791B719896_
+#endif
+#ifndef _homeUrlstring
+#define _homeUrlstring __STC1CC47BB0576E8EE12DBA82791B719896_
+#endif
+#ifndef setHomeUrlstring
+#define setHomeUrlstring set_STC1CC47BB0576E8EE12DBA82791B719896_
+#endif
+#ifndef buttonsHeight
+#define buttonsHeight _STC27B16FA18C32CA7888931551CB995137_
+#endif
+#ifndef _buttonsHeight
+#define _buttonsHeight __STC27B16FA18C32CA7888931551CB995137_
+#endif
+#ifndef setButtonsHeight
+#define setButtonsHeight set_STC27B16FA18C32CA7888931551CB995137_
+#endif
+#ifndef cancelButtonLineBreakMode
+#define cancelButtonLineBreakMode _STCA1BAA53B4185E4EF9A1FD4FA56B4C457_
+#endif
+#ifndef _cancelButtonLineBreakMode
+#define _cancelButtonLineBreakMode __STCA1BAA53B4185E4EF9A1FD4FA56B4C457_
+#endif
+#ifndef setCancelButtonLineBreakMode
+#define setCancelButtonLineBreakMode set_STCA1BAA53B4185E4EF9A1FD4FA56B4C457_
+#endif
+#ifndef titleColorDisabled
+#define titleColorDisabled _STCBB7CB97D4E924E2F3504F69AFB672C52_
+#endif
+#ifndef _titleColorDisabled
+#define _titleColorDisabled __STCBB7CB97D4E924E2F3504F69AFB672C52_
+#endif
+#ifndef setTitleColorDisabled
+#define setTitleColorDisabled set_STCBB7CB97D4E924E2F3504F69AFB672C52_
+#endif
+#ifndef cancelButtonIconImageDisabled
+#define cancelButtonIconImageDisabled _STC0C086FDDD4EF5838BB87268AF13DDC45_
+#endif
+#ifndef _cancelButtonIconImageDisabled
+#define _cancelButtonIconImageDisabled __STC0C086FDDD4EF5838BB87268AF13DDC45_
+#endif
+#ifndef setCancelButtonIconImageDisabled
+#define setCancelButtonIconImageDisabled set_STC0C086FDDD4EF5838BB87268AF13DDC45_
+#endif
+#ifndef willShowHandler
+#define willShowHandler _STC26719A67E0B7BCC9BE22D3C5129F64A0_
+#endif
+#ifndef _willShowHandler
+#define _willShowHandler __STC26719A67E0B7BCC9BE22D3C5129F64A0_
+#endif
+#ifndef setWillShowHandler
+#define setWillShowHandler set_STC26719A67E0B7BCC9BE22D3C5129F64A0_
+#endif
+#ifndef firstButton
+#define firstButton _STC942EEDED0C137916B418BF2D5D014EFF_
+#endif
+#ifndef _firstButton
+#define _firstButton __STC942EEDED0C137916B418BF2D5D014EFF_
+#endif
+#ifndef setFirstButton
+#define setFirstButton set_STC942EEDED0C137916B418BF2D5D014EFF_
+#endif
+#ifndef destructiveButtonTitleColorHighlighted
+#define destructiveButtonTitleColorHighlighted _STC9228231AB4A44F14E5274F884C918A59_
+#endif
+#ifndef _destructiveButtonTitleColorHighlighted
+#define _destructiveButtonTitleColorHighlighted __STC9228231AB4A44F14E5274F884C918A59_
+#endif
+#ifndef setDestructiveButtonTitleColorHighlighted
+#define setDestructiveButtonTitleColorHighlighted set_STC9228231AB4A44F14E5274F884C918A59_
+#endif
+#ifndef progressLabelLineBreakMode
+#define progressLabelLineBreakMode _STC49937B0DBC4B5DA10638E998A335769C_
+#endif
+#ifndef _progressLabelLineBreakMode
+#define _progressLabelLineBreakMode __STC49937B0DBC4B5DA10638E998A335769C_
+#endif
+#ifndef setProgressLabelLineBreakMode
+#define setProgressLabelLineBreakMode set_STC49937B0DBC4B5DA10638E998A335769C_
+#endif
+#ifndef layerShadowRadius
+#define layerShadowRadius _STC2EB8A38B8EF2A7513D68E5B64203E7FD_
+#endif
+#ifndef _layerShadowRadius
+#define _layerShadowRadius __STC2EB8A38B8EF2A7513D68E5B64203E7FD_
+#endif
+#ifndef setLayerShadowRadius
+#define setLayerShadowRadius set_STC2EB8A38B8EF2A7513D68E5B64203E7FD_
+#endif
+#ifndef windowsArray
+#define windowsArray _STC07FF4AE374EF48CB4444E1A91BD172A4_
+#endif
+#ifndef _windowsArray
+#define _windowsArray __STC07FF4AE374EF48CB4444E1A91BD172A4_
+#endif
+#ifndef setWindowsArray
+#define setWindowsArray set_STC07FF4AE374EF48CB4444E1A91BD172A4_
+#endif
+#ifndef coverColor
+#define coverColor _STCFCD9A407BE41B6B45EAADE870D4F0E0B_
+#endif
+#ifndef _coverColor
+#define _coverColor __STCFCD9A407BE41B6B45EAADE870D4F0E0B_
+#endif
+#ifndef setCoverColor
+#define setCoverColor set_STCFCD9A407BE41B6B45EAADE870D4F0E0B_
+#endif
+#ifndef separatorHorizontalView
+#define separatorHorizontalView _STC4703C1B4CA3C77B0CEB8731554636F60_
+#endif
+#ifndef _separatorHorizontalView
+#define _separatorHorizontalView __STC4703C1B4CA3C77B0CEB8731554636F60_
+#endif
+#ifndef setSeparatorHorizontalView
+#define setSeparatorHorizontalView set_STC4703C1B4CA3C77B0CEB8731554636F60_
+#endif
+#ifndef iconImageDisabled
+#define iconImageDisabled _STC05E05E9F00065AEB4D16A6B9FB7121B2_
+#endif
+#ifndef _iconImageDisabled
+#define _iconImageDisabled __STC05E05E9F00065AEB4D16A6B9FB7121B2_
+#endif
+#ifndef setIconImageDisabled
+#define setIconImageDisabled set_STC05E05E9F00065AEB4D16A6B9FB7121B2_
+#endif
+#ifndef backgroundColorDisabled
+#define backgroundColorDisabled _STC859C377267F9928479D04D4830E117A6_
+#endif
+#ifndef _backgroundColorDisabled
+#define _backgroundColorDisabled __STC859C377267F9928479D04D4830E117A6_
+#endif
+#ifndef setBackgroundColorDisabled
+#define setBackgroundColorDisabled set_STC859C377267F9928479D04D4830E117A6_
+#endif
+#ifndef indefiniteAnimatedLayer
+#define indefiniteAnimatedLayer _STC7F7F8214461DB0A7A57422BBBAC426A3_
+#endif
+#ifndef _indefiniteAnimatedLayer
+#define _indefiniteAnimatedLayer __STC7F7F8214461DB0A7A57422BBBAC426A3_
+#endif
+#ifndef setIndefiniteAnimatedLayer
+#define setIndefiniteAnimatedLayer set_STC7F7F8214461DB0A7A57422BBBAC426A3_
+#endif
+#ifndef selectedanimated
+#define selectedanimated _STC6C61C36384564640776097B6D997A971_
+#endif
+#ifndef _selectedanimated
+#define _selectedanimated __STC6C61C36384564640776097B6D997A971_
+#endif
+#ifndef setSelectedanimated
+#define setSelectedanimated set_STC6C61C36384564640776097B6D997A971_
+#endif
+#ifndef iconPosition
+#define iconPosition _STCA8946EF8ACCE2D2CCBE63AB0B55B1D52_
+#endif
+#ifndef _iconPosition
+#define _iconPosition __STCA8946EF8ACCE2D2CCBE63AB0B55B1D52_
+#endif
+#ifndef setIconPosition
+#define setIconPosition set_STCA8946EF8ACCE2D2CCBE63AB0B55B1D52_
+#endif
+#ifndef ringView
+#define ringView _STC8743E7FE0A774794D9A05392164C318D_
+#endif
+#ifndef _ringView
+#define _ringView __STC8743E7FE0A774794D9A05392164C318D_
+#endif
+#ifndef setRingView
+#define setRingView set_STC8743E7FE0A774794D9A05392164C318D_
+#endif
+#ifndef layerBorderColor
+#define layerBorderColor _STCDF819AC135236AA0C5D42CB344110345_
+#endif
+#ifndef _layerBorderColor
+#define _layerBorderColor __STCDF819AC135236AA0C5D42CB344110345_
+#endif
+#ifndef setLayerBorderColor
+#define setLayerBorderColor set_STCDF819AC135236AA0C5D42CB344110345_
+#endif
+#ifndef destructiveButtonBackgroundColorHighlighted
+#define destructiveButtonBackgroundColorHighlighted _STCBB502CB25035CF21E1D3A9D425214683_
+#endif
+#ifndef _destructiveButtonBackgroundColorHighlighted
+#define _destructiveButtonBackgroundColorHighlighted __STCBB502CB25035CF21E1D3A9D425214683_
+#endif
+#ifndef setDestructiveButtonBackgroundColorHighlighted
+#define setDestructiveButtonBackgroundColorHighlighted set_STCBB502CB25035CF21E1D3A9D425214683_
+#endif
+#ifndef imageHighlighted
+#define imageHighlighted _STCB752EFD2887067D347D76B0A7198138B_
+#endif
+#ifndef _imageHighlighted
+#define _imageHighlighted __STCB752EFD2887067D347D76B0A7198138B_
+#endif
+#ifndef setImageHighlighted
+#define setImageHighlighted set_STCB752EFD2887067D347D76B0A7198138B_
+#endif
+#ifndef fdLandscape
+#define fdLandscape _STCEE1C442FB7BBB6D26BA60C9A5C102EDF_
+#endif
+#ifndef _fdLandscape
+#define _fdLandscape __STCEE1C442FB7BBB6D26BA60C9A5C102EDF_
+#endif
+#ifndef setFdLandscape
+#define setFdLandscape set_STCEE1C442FB7BBB6D26BA60C9A5C102EDF_
+#endif
+#ifndef shadowCancelView
+#define shadowCancelView _STC74F9C80D00813F935E7ADA6542A7D6B6_
+#endif
+#ifndef _shadowCancelView
+#define _shadowCancelView __STC74F9C80D00813F935E7ADA6542A7D6B6_
+#endif
+#ifndef setShadowCancelView
+#define setShadowCancelView set_STC74F9C80D00813F935E7ADA6542A7D6B6_
+#endif
+#ifndef buttonPropertiesAtIndexhandler
+#define buttonPropertiesAtIndexhandler _STCC866E2791D8C2CA639D2FE5B71389F77_
+#endif
+#ifndef _buttonPropertiesAtIndexhandler
+#define _buttonPropertiesAtIndexhandler __STCC866E2791D8C2CA639D2FE5B71389F77_
+#endif
+#ifndef setButtonPropertiesAtIndexhandler
+#define setButtonPropertiesAtIndexhandler set_STCC866E2791D8C2CA639D2FE5B71389F77_
+#endif
+#ifndef progressprogressLabelText
+#define progressprogressLabelText _STC902A7A15C22932267A76A7867F8F0797_
+#endif
+#ifndef _progressprogressLabelText
+#define _progressprogressLabelText __STC902A7A15C22932267A76A7867F8F0797_
+#endif
+#ifndef setProgressprogressLabelText
+#define setProgressprogressLabelText set_STC902A7A15C22932267A76A7867F8F0797_
+#endif
+#ifndef showAnimationsBlock
+#define showAnimationsBlock _STCA8CDD912C000E3804C63DE0A839FE523_
+#endif
+#ifndef _showAnimationsBlock
+#define _showAnimationsBlock __STCA8CDD912C000E3804C63DE0A839FE523_
+#endif
+#ifndef setShowAnimationsBlock
+#define setShowAnimationsBlock set_STCA8CDD912C000E3804C63DE0A839FE523_
+#endif
+#ifndef layerCornerRadius
+#define layerCornerRadius _STC7D0E9183A007E58F78F682B4F3B9AE3E_
+#endif
+#ifndef _layerCornerRadius
+#define _layerCornerRadius __STC7D0E9183A007E58F78F682B4F3B9AE3E_
+#endif
+#ifndef setLayerCornerRadius
+#define setLayerCornerRadius set_STC7D0E9183A007E58F78F682B4F3B9AE3E_
+#endif
+#ifndef messageTextAlignment
+#define messageTextAlignment _STC97C758E8EF874A4B35C09AE462365B91_
+#endif
+#ifndef _messageTextAlignment
+#define _messageTextAlignment __STC97C758E8EF874A4B35C09AE462365B91_
+#endif
+#ifndef setMessageTextAlignment
+#define setMessageTextAlignment set_STC97C758E8EF874A4B35C09AE462365B91_
+#endif
+#ifndef separatorsColor
+#define separatorsColor _STC879571AF2B6B94DD8D056B6D032608ED_
+#endif
+#ifndef _separatorsColor
+#define _separatorsColor __STC879571AF2B6B94DD8D056B6D032608ED_
+#endif
+#ifndef setSeparatorsColor
+#define setSeparatorsColor set_STC879571AF2B6B94DD8D056B6D032608ED_
+#endif
+#ifndef fdTimer
+#define fdTimer _STC78981A64DAFC143B0183486FDC4A88CC_
+#endif
+#ifndef _fdTimer
+#define _fdTimer __STC78981A64DAFC143B0183486FDC4A88CC_
+#endif
+#ifndef setFdTimer
+#define setFdTimer set_STC78981A64DAFC143B0183486FDC4A88CC_
+#endif
+#ifndef cancelButtonIconPosition
+#define cancelButtonIconPosition _STCBFE655889CDAF4FBEE6F7723A051D6B2_
+#endif
+#ifndef _cancelButtonIconPosition
+#define _cancelButtonIconPosition __STCBFE655889CDAF4FBEE6F7723A051D6B2_
+#endif
+#ifndef setCancelButtonIconPosition
+#define setCancelButtonIconPosition set_STCBFE655889CDAF4FBEE6F7723A051D6B2_
+#endif
+#ifndef cancelButtonMinimumScaleFactor
+#define cancelButtonMinimumScaleFactor _STCBD84F0D118D10E27F4C0B59AD9A2540A_
+#endif
+#ifndef _cancelButtonMinimumScaleFactor
+#define _cancelButtonMinimumScaleFactor __STCBD84F0D118D10E27F4C0B59AD9A2540A_
+#endif
+#ifndef setCancelButtonMinimumScaleFactor
+#define setCancelButtonMinimumScaleFactor set_STCBD84F0D118D10E27F4C0B59AD9A2540A_
+#endif
+#ifndef destructiveButtonTitleColor
+#define destructiveButtonTitleColor _STC6FD514336A917DF4AEEFA55C1413F516_
+#endif
+#ifndef _destructiveButtonTitleColor
+#define _destructiveButtonTitleColor __STC6FD514336A917DF4AEEFA55C1413F516_
+#endif
+#ifndef setDestructiveButtonTitleColor
+#define setDestructiveButtonTitleColor set_STC6FD514336A917DF4AEEFA55C1413F516_
+#endif
+#ifndef buttonsEnabledArray
+#define buttonsEnabledArray _STCB7F725E3C3BFCD94F3EE4B2DC819709B_
+#endif
+#ifndef _buttonsEnabledArray
+#define _buttonsEnabledArray __STCB7F725E3C3BFCD94F3EE4B2DC819709B_
+#endif
+#ifndef setButtonsEnabledArray
+#define setButtonsEnabledArray set_STCB7F725E3C3BFCD94F3EE4B2DC819709B_
+#endif
+#ifndef didDismissAfterActionHandler
+#define didDismissAfterActionHandler _STC8823C85C44C2478949248F6210617846_
+#endif
+#ifndef _didDismissAfterActionHandler
+#define _didDismissAfterActionHandler __STC8823C85C44C2478949248F6210617846_
+#endif
+#ifndef setDidDismissAfterActionHandler
+#define setDidDismissAfterActionHandler set_STC8823C85C44C2478949248F6210617846_
+#endif
+#ifndef buttonsBackgroundColor
+#define buttonsBackgroundColor _STC9D5C0B3210432E1FA1E85F22E7565ECE_
+#endif
+#ifndef _buttonsBackgroundColor
+#define _buttonsBackgroundColor __STC9D5C0B3210432E1FA1E85F22E7565ECE_
+#endif
+#ifndef setButtonsBackgroundColor
+#define setButtonsBackgroundColor set_STC9D5C0B3210432E1FA1E85F22E7565ECE_
+#endif
+#ifndef layerBorderWidth
+#define layerBorderWidth _STC141433176F3C451549DE6BB6E4E54EDA_
+#endif
+#ifndef _layerBorderWidth
+#define _layerBorderWidth __STC141433176F3C451549DE6BB6E4E54EDA_
+#endif
+#ifndef setLayerBorderWidth
+#define setLayerBorderWidth set_STC141433176F3C451549DE6BB6E4E54EDA_
+#endif
+#ifndef innerContainerView
+#define innerContainerView _STCA232EB91BFE1F53BD4FCDC4BE84821EC_
+#endif
+#ifndef _innerContainerView
+#define _innerContainerView __STCA232EB91BFE1F53BD4FCDC4BE84821EC_
+#endif
+#ifndef setInnerContainerView
+#define setInnerContainerView set_STCA232EB91BFE1F53BD4FCDC4BE84821EC_
+#endif
+#ifndef cancelButtonTextAlignment
+#define cancelButtonTextAlignment _STCC9E8B5B94F3AEC59BB25CEE3D8FA9B27_
+#endif
+#ifndef _cancelButtonTextAlignment
+#define _cancelButtonTextAlignment __STCC9E8B5B94F3AEC59BB25CEE3D8FA9B27_
+#endif
+#ifndef setCancelButtonTextAlignment
+#define setCancelButtonTextAlignment set_STCC9E8B5B94F3AEC59BB25CEE3D8FA9B27_
+#endif
+#ifndef destructiveButtonIconPosition
+#define destructiveButtonIconPosition _STCEFFDB290744C9C73BD71616E5858D2D8_
+#endif
+#ifndef _destructiveButtonIconPosition
+#define _destructiveButtonIconPosition __STCEFFDB290744C9C73BD71616E5858D2D8_
+#endif
+#ifndef setDestructiveButtonIconPosition
+#define setDestructiveButtonIconPosition set_STCEFFDB290744C9C73BD71616E5858D2D8_
+#endif
+#ifndef progressViewTrackTintColor
+#define progressViewTrackTintColor _STC7E94FDE1720B5521BB3B0F88471327DE_
+#endif
+#ifndef _progressViewTrackTintColor
+#define _progressViewTrackTintColor __STC7E94FDE1720B5521BB3B0F88471327DE_
+#endif
+#ifndef setProgressViewTrackTintColor
+#define setProgressViewTrackTintColor set_STC7E94FDE1720B5521BB3B0F88471327DE_
+#endif
+#ifndef progressLabel
+#define progressLabel _STC71BE231E12DC7A0C8A7F4AEA577481D2_
+#endif
+#ifndef _progressLabel
+#define _progressLabel __STC71BE231E12DC7A0C8A7F4AEA577481D2_
+#endif
+#ifndef setProgressLabel
+#define setProgressLabel set_STC71BE231E12DC7A0C8A7F4AEA577481D2_
+#endif
+#ifndef scrollViewCenterHidden
+#define scrollViewCenterHidden _STC10772C3EB41BA539DFAE8C00484D3C70_
+#endif
+#ifndef _scrollViewCenterHidden
+#define _scrollViewCenterHidden __STC10772C3EB41BA539DFAE8C00484D3C70_
+#endif
+#ifndef setScrollViewCenterHidden
+#define setScrollViewCenterHidden set_STC10772C3EB41BA539DFAE8C00484D3C70_
+#endif
+#ifndef messageFont
+#define messageFont _STC39D01F2FF2521EA6DA5ED01CB212895B_
+#endif
+#ifndef _messageFont
+#define _messageFont __STC39D01F2FF2521EA6DA5ED01CB212895B_
+#endif
+#ifndef setMessageFont
+#define setMessageFont set_STC39D01F2FF2521EA6DA5ED01CB212895B_
+#endif
+#ifndef loadingImageView
+#define loadingImageView _STCE03B392849B18BCEA6658415A29EED1E_
+#endif
+#ifndef _loadingImageView
+#define _loadingImageView __STCE03B392849B18BCEA6658415A29EED1E_
+#endif
+#ifndef setLoadingImageView
+#define setLoadingImageView set_STCE03B392849B18BCEA6658415A29EED1E_
+#endif
+#ifndef backgroundLayer
+#define backgroundLayer _STC324CF2F6A740F85B553E704214C2DEC0_
+#endif
+#ifndef _backgroundLayer
+#define _backgroundLayer __STC324CF2F6A740F85B553E704214C2DEC0_
+#endif
+#ifndef setBackgroundLayer
+#define setBackgroundLayer set_STC324CF2F6A740F85B553E704214C2DEC0_
+#endif
+#ifndef destructiveButtonMinimumScaleFactor
+#define destructiveButtonMinimumScaleFactor _STC1385E50D1FE3D85303D658DE578A5B15_
+#endif
+#ifndef _destructiveButtonMinimumScaleFactor
+#define _destructiveButtonMinimumScaleFactor __STC1385E50D1FE3D85303D658DE578A5B15_
+#endif
+#ifndef setDestructiveButtonMinimumScaleFactor
+#define setDestructiveButtonMinimumScaleFactor set_STC1385E50D1FE3D85303D658DE578A5B15_
+#endif
+#ifndef clickIndexBlock
+#define clickIndexBlock _STC0F540A7787D43DF93C9B6597ABB11DFE_
+#endif
+#ifndef _clickIndexBlock
+#define _clickIndexBlock __STC0F540A7787D43DF93C9B6597ABB11DFE_
+#endif
+#ifndef setClickIndexBlock
+#define setClickIndexBlock set_STC0F540A7787D43DF93C9B6597ABB11DFE_
+#endif
+#ifndef secondButton
+#define secondButton _STC8CD17C276B8AA17D2D897ABF6023A374_
+#endif
+#ifndef _secondButton
+#define _secondButton __STC8CD17C276B8AA17D2D897ABF6023A374_
+#endif
+#ifndef setSecondButton
+#define setSecondButton set_STC8CD17C276B8AA17D2D897ABF6023A374_
+#endif
+#ifndef cancelButtonNumberOfLines
+#define cancelButtonNumberOfLines _STCB7204354D79E0D9C70DA6FF918A1A1FA_
+#endif
+#ifndef _cancelButtonNumberOfLines
+#define _cancelButtonNumberOfLines __STCB7204354D79E0D9C70DA6FF918A1A1FA_
+#endif
+#ifndef setCancelButtonNumberOfLines
+#define setCancelButtonNumberOfLines set_STCB7204354D79E0D9C70DA6FF918A1A1FA_
+#endif
+#ifndef textFieldsFont
+#define textFieldsFont _STCD868E48580DABB469DD9110A95BAB382_
+#endif
+#ifndef _textFieldsFont
+#define _textFieldsFont __STCD868E48580DABB469DD9110A95BAB382_
+#endif
+#ifndef setTextFieldsFont
+#define setTextFieldsFont set_STCD868E48580DABB469DD9110A95BAB382_
+#endif
+#ifndef conn
+#define conn _STCC4D8F1095B6E2947A00F9CFB06FDCFD6_
+#endif
+#ifndef _conn
+#define _conn __STCC4D8F1095B6E2947A00F9CFB06FDCFD6_
+#endif
+#ifndef setConn
+#define setConn set_STCC4D8F1095B6E2947A00F9CFB06FDCFD6_
+#endif
+#ifndef textFieldsAdjustsFontSizeToFitWidth
+#define textFieldsAdjustsFontSizeToFitWidth _STC34AF65575040DD809DA026F3DE9E505E_
+#endif
+#ifndef _textFieldsAdjustsFontSizeToFitWidth
+#define _textFieldsAdjustsFontSizeToFitWidth __STC34AF65575040DD809DA026F3DE9E505E_
+#endif
+#ifndef setTextFieldsAdjustsFontSizeToFitWidth
+#define setTextFieldsAdjustsFontSizeToFitWidth set_STC34AF65575040DD809DA026F3DE9E505E_
+#endif
+#ifndef statusLabel
+#define statusLabel _STC8E1EC445CD405D4A1FD8F54B022C2D8E_
+#endif
+#ifndef _statusLabel
+#define _statusLabel __STC8E1EC445CD405D4A1FD8F54B022C2D8E_
+#endif
+#ifndef setStatusLabel
+#define setStatusLabel set_STC8E1EC445CD405D4A1FD8F54B022C2D8E_
+#endif
+#ifndef buttonsIconImages
+#define buttonsIconImages _STC1C4C6AB84C4CAEDA35C8B46BABD2F829_
+#endif
+#ifndef _buttonsIconImages
+#define _buttonsIconImages __STC1C4C6AB84C4CAEDA35C8B46BABD2F829_
+#endif
+#ifndef setButtonsIconImages
+#define setButtonsIconImages set_STC1C4C6AB84C4CAEDA35C8B46BABD2F829_
+#endif
+#ifndef progressViewTrackImage
+#define progressViewTrackImage _STCFC20772A61B4A80645B81CAD083BFCCE_
+#endif
+#ifndef _progressViewTrackImage
+#define _progressViewTrackImage __STCFC20772A61B4A80645B81CAD083BFCCE_
+#endif
+#ifndef setProgressViewTrackImage
+#define setProgressViewTrackImage set_STCFC20772A61B4A80645B81CAD083BFCCE_
+#endif
+#ifndef buttonsTextAlignment
+#define buttonsTextAlignment _STC8FA6951EAACF4D2CAB0DD5F56F0800D3_
+#endif
+#ifndef _buttonsTextAlignment
+#define _buttonsTextAlignment __STC8FA6951EAACF4D2CAB0DD5F56F0800D3_
+#endif
+#ifndef setButtonsTextAlignment
+#define setButtonsTextAlignment set_STC8FA6951EAACF4D2CAB0DD5F56F0800D3_
+#endif
+#ifndef destructiveButton
+#define destructiveButton _STC71903ADBA9AA800F276F74EEB8234B3D_
+#endif
+#ifndef _destructiveButton
+#define _destructiveButton __STC71903ADBA9AA800F276F74EEB8234B3D_
+#endif
+#ifndef setDestructiveButton
+#define setDestructiveButton set_STC71903ADBA9AA800F276F74EEB8234B3D_
+#endif
+#ifndef keyboardHeight
+#define keyboardHeight _STC4E37427824AEBC6C2331D0FAAC31C5B5_
+#endif
+#ifndef _keyboardHeight
+#define _keyboardHeight __STC4E37427824AEBC6C2331D0FAAC31C5B5_
+#endif
+#ifndef setKeyboardHeight
+#define setKeyboardHeight set_STC4E37427824AEBC6C2331D0FAAC31C5B5_
+#endif
+#ifndef cancelButtonBackgroundColor
+#define cancelButtonBackgroundColor _STCFE8630DFD178A81DAB07A410E2E4ABED_
+#endif
+#ifndef _cancelButtonBackgroundColor
+#define _cancelButtonBackgroundColor __STCFE8630DFD178A81DAB07A410E2E4ABED_
+#endif
+#ifndef setCancelButtonBackgroundColor
+#define setCancelButtonBackgroundColor set_STCFE8630DFD178A81DAB07A410E2E4ABED_
+#endif
+#ifndef hudView
+#define hudView _STCC44EDF327ECE8C9AA5A4D0E2406F8309_
+#endif
+#ifndef _hudView
+#define _hudView __STCC44EDF327ECE8C9AA5A4D0E2406F8309_
+#endif
+#ifndef setHudView
+#define setHudView set_STCC44EDF327ECE8C9AA5A4D0E2406F8309_
+#endif
+#ifndef backgroundColorNormal
+#define backgroundColorNormal _STCE85CB98CD7957C5BFDA6D3C093B33135_
+#endif
+#ifndef _backgroundColorNormal
+#define _backgroundColorNormal __STCE85CB98CD7957C5BFDA6D3C093B33135_
+#endif
+#ifndef setBackgroundColorNormal
+#define setBackgroundColorNormal set_STCE85CB98CD7957C5BFDA6D3C093B33135_
+#endif
+#ifndef didShowHandler
+#define didShowHandler _STC8B5AE09CC90B4AE255324F4C371E99D4_
+#endif
+#ifndef _didShowHandler
+#define _didShowHandler __STC8B5AE09CC90B4AE255324F4C371E99D4_
+#endif
+#ifndef setDidShowHandler
+#define setDidShowHandler set_STC8B5AE09CC90B4AE255324F4C371E99D4_
+#endif
+#ifndef didDismissHandler
+#define didDismissHandler _STCF4A101F75DE81E22E5E592C6CDE8385B_
+#endif
+#ifndef _didDismissHandler
+#define _didDismissHandler __STCF4A101F75DE81E22E5E592C6CDE8385B_
+#endif
+#ifndef setDidDismissHandler
+#define setDidDismissHandler set_STCF4A101F75DE81E22E5E592C6CDE8385B_
+#endif
+#ifndef forwardButton
+#define forwardButton _STC43399298F1436947204F97A6955941BE_
+#endif
+#ifndef _forwardButton
+#define _forwardButton __STC43399298F1436947204F97A6955941BE_
+#endif
+#ifndef setForwardButton
+#define setForwardButton set_STC43399298F1436947204F97A6955941BE_
+#endif
+#ifndef innerView
+#define innerView _STC17B1A703978FED03F32CF17DB370BC62_
+#endif
+#ifndef _innerView
+#define _innerView __STC17B1A703978FED03F32CF17DB370BC62_
+#endif
+#ifndef setInnerView
+#define setInnerView set_STC17B1A703978FED03F32CF17DB370BC62_
+#endif
+#ifndef backgroundBlurEffect
+#define backgroundBlurEffect _STC0317FF5FF8326D88268BA50D7C1F285B_
+#endif
+#ifndef _backgroundBlurEffect
+#define _backgroundBlurEffect __STC0317FF5FF8326D88268BA50D7C1F285B_
+#endif
+#ifndef setBackgroundBlurEffect
+#define setBackgroundBlurEffect set_STC0317FF5FF8326D88268BA50D7C1F285B_
+#endif
+#ifndef progressLabelTextColor
+#define progressLabelTextColor _STCC7255DD416347FFAF9870C7BBC81E114_
+#endif
+#ifndef _progressLabelTextColor
+#define _progressLabelTextColor __STCC7255DD416347FFAF9870C7BBC81E114_
+#endif
+#ifndef setProgressLabelTextColor
+#define setProgressLabelTextColor set_STCC7255DD416347FFAF9870C7BBC81E114_
+#endif
+#ifndef buttonsIconPosition
+#define buttonsIconPosition _STC14232E97AF94A23B5C066620BFA3A2F5_
+#endif
+#ifndef _buttonsIconPosition
+#define _buttonsIconPosition __STC14232E97AF94A23B5C066620BFA3A2F5_
+#endif
+#ifndef setButtonsIconPosition
+#define setButtonsIconPosition set_STC14232E97AF94A23B5C066620BFA3A2F5_
+#endif
+#ifndef buttonsIconImagesHighlighted
+#define buttonsIconImagesHighlighted _STC028D45E516CECE44DC57653F2DF3C6FF_
+#endif
+#ifndef _buttonsIconImagesHighlighted
+#define _buttonsIconImagesHighlighted __STC028D45E516CECE44DC57653F2DF3C6FF_
+#endif
+#ifndef setButtonsIconImagesHighlighted
+#define setButtonsIconImagesHighlighted set_STC028D45E516CECE44DC57653F2DF3C6FF_
+#endif
+#ifndef progressLabelFont
+#define progressLabelFont _STC6491896FC0AA61D1EE273130FBE1F4FD_
+#endif
+#ifndef _progressLabelFont
+#define _progressLabelFont __STC6491896FC0AA61D1EE273130FBE1F4FD_
+#endif
+#ifndef setProgressLabelFont
+#define setProgressLabelFont set_STC6491896FC0AA61D1EE273130FBE1F4FD_
+#endif
+#ifndef textFieldsTextAlignment
+#define textFieldsTextAlignment _STC708B84167A3ABB5B0F22E8CFE63F6549_
+#endif
+#ifndef _textFieldsTextAlignment
+#define _textFieldsTextAlignment __STC708B84167A3ABB5B0F22E8CFE63F6549_
+#endif
+#ifndef setTextFieldsTextAlignment
+#define setTextFieldsTextAlignment set_STC708B84167A3ABB5B0F22E8CFE63F6549_
+#endif
+#ifndef messageLabel
+#define messageLabel _STC7CF73C94708ED727236EE1A2D5EB8701_
+#endif
+#ifndef _messageLabel
+#define _messageLabel __STC7CF73C94708ED727236EE1A2D5EB8701_
+#endif
+#ifndef setMessageLabel
+#define setMessageLabel set_STC7CF73C94708ED727236EE1A2D5EB8701_
+#endif
+#ifndef titleColorHighlighted
+#define titleColorHighlighted _STC04930F846EA4CEA8DF567EE394F2A246_
+#endif
+#ifndef _titleColorHighlighted
+#define _titleColorHighlighted __STC04930F846EA4CEA8DF567EE394F2A246_
+#endif
+#ifndef setTitleColorHighlighted
+#define setTitleColorHighlighted set_STC04930F846EA4CEA8DF567EE394F2A246_
+#endif
+#ifndef visibleKeyboardHeight
+#define visibleKeyboardHeight _STCEF8C573F820AB95CAAA2FA7DDD79A6FA_
+#endif
+#ifndef _visibleKeyboardHeight
+#define _visibleKeyboardHeight __STCEF8C573F820AB95CAAA2FA7DDD79A6FA_
+#endif
+#ifndef setVisibleKeyboardHeight
+#define setVisibleKeyboardHeight set_STCEF8C573F820AB95CAAA2FA7DDD79A6FA_
+#endif
+#ifndef layerShadowColor
+#define layerShadowColor _STC548E26FB69B1009B53DC016725445E34_
+#endif
+#ifndef _layerShadowColor
+#define _layerShadowColor __STC548E26FB69B1009B53DC016725445E34_
+#endif
+#ifndef setLayerShadowColor
+#define setLayerShadowColor set_STC548E26FB69B1009B53DC016725445E34_
+#endif
+#ifndef cancelButtonBackgroundColorHighlighted
+#define cancelButtonBackgroundColorHighlighted _STCB7777006DFBA3AECCE023C825271493B_
+#endif
+#ifndef _cancelButtonBackgroundColorHighlighted
+#define _cancelButtonBackgroundColorHighlighted __STCB7777006DFBA3AECCE023C825271493B_
+#endif
+#ifndef setCancelButtonBackgroundColorHighlighted
+#define setCancelButtonBackgroundColorHighlighted set_STCB7777006DFBA3AECCE023C825271493B_
+#endif
+#ifndef textFieldsTextColor
+#define textFieldsTextColor _STC74B30BF63E85055918C14EDF86F988ED_
+#endif
+#ifndef _textFieldsTextColor
+#define _textFieldsTextColor __STC74B30BF63E85055918C14EDF86F988ED_
+#endif
+#ifndef setTextFieldsTextColor
+#define setTextFieldsTextColor set_STC74B30BF63E85055918C14EDF86F988ED_
+#endif
+#ifndef cancelButtonBackgroundColorDisabled
+#define cancelButtonBackgroundColorDisabled _STCAA620A414CBF9DF73BD3EDFD200B1C88_
+#endif
+#ifndef _cancelButtonBackgroundColorDisabled
+#define _cancelButtonBackgroundColorDisabled __STCAA620A414CBF9DF73BD3EDFD200B1C88_
+#endif
+#ifndef setCancelButtonBackgroundColorDisabled
+#define setCancelButtonBackgroundColorDisabled set_STCAA620A414CBF9DF73BD3EDFD200B1C88_
+#endif
+#ifndef destructiveButtonTextAlignment
+#define destructiveButtonTextAlignment _STC532A67C19F190F090240DB5164517B01_
+#endif
+#ifndef _destructiveButtonTextAlignment
+#define _destructiveButtonTextAlignment __STC532A67C19F190F090240DB5164517B01_
+#endif
+#ifndef setDestructiveButtonTextAlignment
+#define setDestructiveButtonTextAlignment set_STC532A67C19F190F090240DB5164517B01_
+#endif
+#ifndef dismissAnimationsBlock
+#define dismissAnimationsBlock _STC0B9773B41EAED622FE6A7203D45B4C5D_
+#endif
+#ifndef _dismissAnimationsBlock
+#define _dismissAnimationsBlock __STC0B9773B41EAED622FE6A7203D45B4C5D_
+#endif
+#ifndef setDismissAnimationsBlock
+#define setDismissAnimationsBlock set_STC0B9773B41EAED622FE6A7203D45B4C5D_
+#endif
+#ifndef backgroundColorHighlighted
+#define backgroundColorHighlighted _STC8E9D05F01BCF1E0E711954B9564B1E55_
+#endif
+#ifndef _backgroundColorHighlighted
+#define _backgroundColorHighlighted __STC8E9D05F01BCF1E0E711954B9564B1E55_
+#endif
+#ifndef setBackgroundColorHighlighted
+#define setBackgroundColorHighlighted set_STC8E9D05F01BCF1E0E711954B9564B1E55_
+#endif
+#ifndef buttonsTitleColor
+#define buttonsTitleColor _STC81FBB6C1659AC305C7DAA0F31D5A1BFE_
+#endif
+#ifndef _buttonsTitleColor
+#define _buttonsTitleColor __STC81FBB6C1659AC305C7DAA0F31D5A1BFE_
+#endif
+#ifndef setButtonsTitleColor
+#define setButtonsTitleColor set_STC81FBB6C1659AC305C7DAA0F31D5A1BFE_
+#endif
+#ifndef cancelButtonTitleColorDisabled
+#define cancelButtonTitleColorDisabled _STC9EBE1FFCD9264A30C86F5E06609113D5_
+#endif
+#ifndef _cancelButtonTitleColorDisabled
+#define _cancelButtonTitleColorDisabled __STC9EBE1FFCD9264A30C86F5E06609113D5_
+#endif
+#ifndef setCancelButtonTitleColorDisabled
+#define setCancelButtonTitleColorDisabled set_STC9EBE1FFCD9264A30C86F5E06609113D5_
+#endif
+#ifndef destructiveButtonLineBreakMode
+#define destructiveButtonLineBreakMode _STC0B38CE4523ACB5582F06E2F8D5E36408_
+#endif
+#ifndef _destructiveButtonLineBreakMode
+#define _destructiveButtonLineBreakMode __STC0B38CE4523ACB5582F06E2F8D5E36408_
+#endif
+#ifndef setDestructiveButtonLineBreakMode
+#define setDestructiveButtonLineBreakMode set_STC0B38CE4523ACB5582F06E2F8D5E36408_
+#endif
+#ifndef buttonsNumberOfLines
+#define buttonsNumberOfLines _STC0AE1345FC18D241BF41A2AA3535F4426_
+#endif
+#ifndef _buttonsNumberOfLines
+#define _buttonsNumberOfLines __STC0AE1345FC18D241BF41A2AA3535F4426_
+#endif
+#ifndef setButtonsNumberOfLines
+#define setButtonsNumberOfLines set_STC0AE1345FC18D241BF41A2AA3535F4426_
+#endif
+#ifndef buttonsLineBreakMode
+#define buttonsLineBreakMode _STC3D85015E0F07970BDF77FFDE8B838EC4_
+#endif
+#ifndef _buttonsLineBreakMode
+#define _buttonsLineBreakMode __STC3D85015E0F07970BDF77FFDE8B838EC4_
+#endif
+#ifndef setButtonsLineBreakMode
+#define setButtonsLineBreakMode set_STC3D85015E0F07970BDF77FFDE8B838EC4_
+#endif
+#ifndef destructiveButtonIconImageDisabled
+#define destructiveButtonIconImageDisabled _STCBAB33DF29BBECF9C0EC869822BD26356_
+#endif
+#ifndef _destructiveButtonIconImageDisabled
+#define _destructiveButtonIconImageDisabled __STCBAB33DF29BBECF9C0EC869822BD26356_
+#endif
+#ifndef setDestructiveButtonIconImageDisabled
+#define setDestructiveButtonIconImageDisabled set_STCBAB33DF29BBECF9C0EC869822BD26356_
+#endif
+#ifndef buttonsIconImagesDisabled
+#define buttonsIconImagesDisabled _STCBF3CA544136B03A82DE0A3701DD4338C_
+#endif
+#ifndef _buttonsIconImagesDisabled
+#define _buttonsIconImagesDisabled __STCBF3CA544136B03A82DE0A3701DD4338C_
+#endif
+#ifndef setButtonsIconImagesDisabled
+#define setButtonsIconImagesDisabled set_STCBF3CA544136B03A82DE0A3701DD4338C_
+#endif
+#ifndef myActivityView
+#define myActivityView _STC6820E0F40327877FCBD8809A1EFD37C1_
+#endif
+#ifndef _myActivityView
+#define _myActivityView __STC6820E0F40327877FCBD8809A1EFD37C1_
+#endif
+#ifndef setMyActivityView
+#define setMyActivityView set_STC6820E0F40327877FCBD8809A1EFD37C1_
+#endif
+#ifndef textFieldsArray
+#define textFieldsArray _STCA111C0029843EFDC658D307B72DC621A_
+#endif
+#ifndef _textFieldsArray
+#define _textFieldsArray __STCA111C0029843EFDC658D307B72DC621A_
+#endif
+#ifndef setTextFieldsArray
+#define setTextFieldsArray set_STCA111C0029843EFDC658D307B72DC621A_
+#endif
+#ifndef textFieldsClearsOnBeginEditing
+#define textFieldsClearsOnBeginEditing _STC3B719EFBDBB0534148B8307B1C8BF779_
+#endif
+#ifndef _textFieldsClearsOnBeginEditing
+#define _textFieldsClearsOnBeginEditing __STC3B719EFBDBB0534148B8307B1C8BF779_
+#endif
+#ifndef setTextFieldsClearsOnBeginEditing
+#define setTextFieldsClearsOnBeginEditing set_STC3B719EFBDBB0534148B8307B1C8BF779_
+#endif
+#ifndef separatorVerticalView1
+#define separatorVerticalView1 _STC38CA71F77C40986DD770F87C9100D66D_
+#endif
+#ifndef _separatorVerticalView1
+#define _separatorVerticalView1 __STC38CA71F77C40986DD770F87C9100D66D_
+#endif
+#ifndef setSeparatorVerticalView1
+#define setSeparatorVerticalView1 set_STC38CA71F77C40986DD770F87C9100D66D_
+#endif
+#ifndef highlightedanimated
+#define highlightedanimated _STC6D88308189A305464F240B672ED8A1B9_
+#endif
+#ifndef _highlightedanimated
+#define _highlightedanimated __STC6D88308189A305464F240B672ED8A1B9_
+#endif
+#ifndef setHighlightedanimated
+#define setHighlightedanimated set_STC6D88308189A305464F240B672ED8A1B9_
+#endif
+#ifndef buttonsBackgroundColorHighlighted
+#define buttonsBackgroundColorHighlighted _STC992916B6474E068899F56E642FBE7220_
+#endif
+#ifndef _buttonsBackgroundColorHighlighted
+#define _buttonsBackgroundColorHighlighted __STC992916B6474E068899F56E642FBE7220_
+#endif
+#ifndef setButtonsBackgroundColorHighlighted
+#define setButtonsBackgroundColorHighlighted set_STC992916B6474E068899F56E642FBE7220_
+#endif
+#ifndef progressLabelTextAlignment
+#define progressLabelTextAlignment _STC951B52B34762D935247D9EE6024A3A10_
+#endif
+#ifndef _progressLabelTextAlignment
+#define _progressLabelTextAlignment __STC951B52B34762D935247D9EE6024A3A10_
+#endif
+#ifndef setProgressLabelTextAlignment
+#define setProgressLabelTextAlignment set_STC951B52B34762D935247D9EE6024A3A10_
+#endif
+#ifndef buttonsBackgroundColorDisabled
+#define buttonsBackgroundColorDisabled _STC6108FB8E01D7221E7B432F2DD65CE287_
+#endif
+#ifndef _buttonsBackgroundColorDisabled
+#define _buttonsBackgroundColorDisabled __STC6108FB8E01D7221E7B432F2DD65CE287_
+#endif
+#ifndef setButtonsBackgroundColorDisabled
+#define setButtonsBackgroundColorDisabled set_STC6108FB8E01D7221E7B432F2DD65CE287_
+#endif
+#ifndef destructiveButtonFont
+#define destructiveButtonFont _STC2F7098C4204445E0FF025A0E6B4EC31A_
+#endif
+#ifndef _destructiveButtonFont
+#define _destructiveButtonFont __STC2F7098C4204445E0FF025A0E6B4EC31A_
+#endif
+#ifndef setDestructiveButtonFont
+#define setDestructiveButtonFont set_STC2F7098C4204445E0FF025A0E6B4EC31A_
+#endif
+#ifndef buttonsFont
+#define buttonsFont _STCCBE26403A6397117CD0DAB203FF96E03_
+#endif
+#ifndef _buttonsFont
+#define _buttonsFont __STCCBE26403A6397117CD0DAB203FF96E03_
+#endif
+#ifndef setButtonsFont
+#define setButtonsFont set_STCCBE26403A6397117CD0DAB203FF96E03_
+#endif
+#ifndef didDismissAfterDestructiveHandler
+#define didDismissAfterDestructiveHandler _STCA406DB32762B9352CE59415FB32CC74E_
+#endif
+#ifndef _didDismissAfterDestructiveHandler
+#define _didDismissAfterDestructiveHandler __STCA406DB32762B9352CE59415FB32CC74E_
+#endif
+#ifndef setDidDismissAfterDestructiveHandler
+#define setDidDismissAfterDestructiveHandler set_STCA406DB32762B9352CE59415FB32CC74E_
+#endif
+#ifndef coverBlurEffect
+#define coverBlurEffect _STC3E96A8CE68F282300E7C32DA242F2AD0_
+#endif
+#ifndef _coverBlurEffect
+#define _coverBlurEffect __STC3E96A8CE68F282300E7C32DA242F2AD0_
+#endif
+#ifndef setCoverBlurEffect
+#define setCoverBlurEffect set_STC3E96A8CE68F282300E7C32DA242F2AD0_
+#endif
+#ifndef loadingLabel
+#define loadingLabel _STC5C4B22D530E0E41E6C2A4CCCBC9C954D_
+#endif
+#ifndef _loadingLabel
+#define _loadingLabel __STC5C4B22D530E0E41E6C2A4CCCBC9C954D_
+#endif
+#ifndef setLoadingLabel
+#define setLoadingLabel set_STC5C4B22D530E0E41E6C2A4CCCBC9C954D_
+#endif
+#ifndef backgroundColorforState
+#define backgroundColorforState _STCC495E1099E676876939BCB22EE4DA468_
+#endif
+#ifndef _backgroundColorforState
+#define _backgroundColorforState __STCC495E1099E676876939BCB22EE4DA468_
+#endif
+#ifndef setBackgroundColorforState
+#define setBackgroundColorforState set_STCC495E1099E676876939BCB22EE4DA468_
+#endif
+#ifndef cancelButtonFont
+#define cancelButtonFont _STC172829BF6B68E3A2523F8E4DAB12AFBB_
+#endif
+#ifndef _cancelButtonFont
+#define _cancelButtonFont __STC172829BF6B68E3A2523F8E4DAB12AFBB_
+#endif
+#ifndef setCancelButtonFont
+#define setCancelButtonFont set_STC172829BF6B68E3A2523F8E4DAB12AFBB_
+#endif
+#ifndef isReview
+#define isReview _STC1B9B0E9C74CF21BF2280964691CC2524_
+#endif
+#ifndef _isReview
+#define _isReview __STC1B9B0E9C74CF21BF2280964691CC2524_
+#endif
+#ifndef setIsReview
+#define setIsReview set_STC1B9B0E9C74CF21BF2280964691CC2524_
+#endif
+#ifndef separatorVerticalView2
+#define separatorVerticalView2 _STC1B935F0ABA9E5C797ABA2C3FC46A08EC_
+#endif
+#ifndef _separatorVerticalView2
+#define _separatorVerticalView2 __STC1B935F0ABA9E5C797ABA2C3FC46A08EC_
+#endif
+#ifndef setSeparatorVerticalView2
+#define setSeparatorVerticalView2 set_STC1B935F0ABA9E5C797ABA2C3FC46A08EC_
+#endif
+#ifndef cancelButtonTitleColor
+#define cancelButtonTitleColor _STCD28A534C0106625EC72D359C1B376B59_
+#endif
+#ifndef _cancelButtonTitleColor
+#define _cancelButtonTitleColor __STCD28A534C0106625EC72D359C1B376B59_
+#endif
+#ifndef setCancelButtonTitleColor
+#define setCancelButtonTitleColor set_STCD28A534C0106625EC72D359C1B376B59_
+#endif
+#ifndef imageDisabled
+#define imageDisabled _STCA969033435B0F6106F23C779835CFCA0_
+#endif
+#ifndef _imageDisabled
+#define _imageDisabled __STCA969033435B0F6106F23C779835CFCA0_
+#endif
+#ifndef setImageDisabled
+#define setImageDisabled set_STCA969033435B0F6106F23C779835CFCA0_
+#endif
+#ifndef blurCancelView
+#define blurCancelView _STC6386A4D1C67A129FB0BB626D50D267F8_
+#endif
+#ifndef _blurCancelView
+#define _blurCancelView __STC6386A4D1C67A129FB0BB626D50D267F8_
+#endif
+#ifndef setBlurCancelView
+#define setBlurCancelView set_STC6386A4D1C67A129FB0BB626D50D267F8_
+#endif
+#ifndef iconImageHighlighted
+#define iconImageHighlighted _STC5B9ADE7D9C93036D43AE6D06D578D3A7_
+#endif
+#ifndef _iconImageHighlighted
+#define _iconImageHighlighted __STC5B9ADE7D9C93036D43AE6D06D578D3A7_
+#endif
+#ifndef setIconImageHighlighted
+#define setIconImageHighlighted set_STC5B9ADE7D9C93036D43AE6D06D578D3A7_
+#endif
+#ifndef destructiveButtonIconImageHighlighted
+#define destructiveButtonIconImageHighlighted _STC46FD13FBB40ABFF85C4C844CCF9F91D7_
+#endif
+#ifndef _destructiveButtonIconImageHighlighted
+#define _destructiveButtonIconImageHighlighted __STC46FD13FBB40ABFF85C4C844CCF9F91D7_
+#endif
+#ifndef setDestructiveButtonIconImageHighlighted
+#define setDestructiveButtonIconImageHighlighted set_STC46FD13FBB40ABFF85C4C844CCF9F91D7_
+#endif
+#ifndef progressView
+#define progressView _STCCDF97FA2A043D5CC026790E1D0CEBAE4_
+#endif
+#ifndef _progressView
+#define _progressView __STCCDF97FA2A043D5CC026790E1D0CEBAE4_
+#endif
+#ifndef setProgressView
+#define setProgressView set_STCCDF97FA2A043D5CC026790E1D0CEBAE4_
+#endif
+#ifndef ringAnimatedLayer
+#define ringAnimatedLayer _STC8ECB523EE24CB3BE2653A3078B5E4017_
+#endif
+#ifndef _ringAnimatedLayer
+#define _ringAnimatedLayer __STC8ECB523EE24CB3BE2653A3078B5E4017_
+#endif
+#ifndef setRingAnimatedLayer
+#define setRingAnimatedLayer set_STC8ECB523EE24CB3BE2653A3078B5E4017_
+#endif
+#ifndef progressViewProgressTintColor
+#define progressViewProgressTintColor _STC6E47BAFA728740352348BB4231892CDE_
+#endif
+#ifndef _progressViewProgressTintColor
+#define _progressViewProgressTintColor __STC6E47BAFA728740352348BB4231892CDE_
+#endif
+#ifndef setProgressViewProgressTintColor
+#define setProgressViewProgressTintColor set_STC6E47BAFA728740352348BB4231892CDE_
+#endif
+#ifndef bar
+#define bar _STC502C4FF2047965998BF0D9E23E6D8E9E_
+#endif
+#ifndef _bar
+#define _bar __STC502C4FF2047965998BF0D9E23E6D8E9E_
+#endif
+#ifndef setBar
+#define setBar set_STC502C4FF2047965998BF0D9E23E6D8E9E_
+#endif
+#ifndef heightCell
+#define heightCell _STCEABB45A776F4AFE83091137673781A0F_
+#endif
+#ifndef _heightCell
+#define _heightCell __STCEABB45A776F4AFE83091137673781A0F_
+#endif
+#ifndef setHeightCell
+#define setHeightCell set_STCEABB45A776F4AFE83091137673781A0F_
+#endif
+#ifndef fdIsHorizontal
+#define fdIsHorizontal _STC198B0DB2B67C6946E808DF14FF813B18_
+#endif
+#ifndef _fdIsHorizontal
+#define _fdIsHorizontal __STC198B0DB2B67C6946E808DF14FF813B18_
+#endif
+#ifndef setFdIsHorizontal
+#define setFdIsHorizontal set_STC198B0DB2B67C6946E808DF14FF813B18_
+#endif
+#ifndef activityCount
+#define activityCount _STC964E211A3549CC3F34E46BC38514B466_
+#endif
+#ifndef _activityCount
+#define _activityCount __STC964E211A3549CC3F34E46BC38514B466_
+#endif
+#ifndef setActivityCount
+#define setActivityCount set_STC964E211A3549CC3F34E46BC38514B466_
+#endif
+#ifndef buttonsTitleColorDisabled
+#define buttonsTitleColorDisabled _STC898955D3899C98FED0B977CB9648CDC0_
+#endif
+#ifndef _buttonsTitleColorDisabled
+#define _buttonsTitleColorDisabled __STC898955D3899C98FED0B977CB9648CDC0_
+#endif
+#ifndef setButtonsTitleColorDisabled
+#define setButtonsTitleColorDisabled set_STC898955D3899C98FED0B977CB9648CDC0_
+#endif
+#ifndef scrollViewCenterShowed
+#define scrollViewCenterShowed _STCC2AFA6EA6A9C7E645E66655D3AEED1AD_
+#endif
+#ifndef _scrollViewCenterShowed
+#define _scrollViewCenterShowed __STCC2AFA6EA6A9C7E645E66655D3AEED1AD_
+#endif
+#ifndef setScrollViewCenterShowed
+#define setScrollViewCenterShowed set_STCC2AFA6EA6A9C7E645E66655D3AEED1AD_
+#endif
+#ifndef InitJPush
+#define InitJPush _STC83CBAF2F1895A244985FC270BFE48E30_
+#endif
+#ifndef _InitJPush
+#define _InitJPush __STC83CBAF2F1895A244985FC270BFE48E30_
+#endif
+#ifndef setInitJPush
+#define setInitJPush set_STC83CBAF2F1895A244985FC270BFE48E30_
+#endif
+#ifndef fdWebView
+#define fdWebView _STC114BE7F4DA1D7803097ACB24FC67F92F_
+#endif
+#ifndef _fdWebView
+#define _fdWebView __STC114BE7F4DA1D7803097ACB24FC67F92F_
+#endif
+#ifndef setFdWebView
+#define setFdWebView set_STC114BE7F4DA1D7803097ACB24FC67F92F_
+#endif
+#ifndef indefiniteAnimatedView
+#define indefiniteAnimatedView _STCD49B796E6914E2761A657F8EF347AA7E_
+#endif
+#ifndef _indefiniteAnimatedView
+#define _indefiniteAnimatedView __STCD49B796E6914E2761A657F8EF347AA7E_
+#endif
+#ifndef setIndefiniteAnimatedView
+#define setIndefiniteAnimatedView set_STCD49B796E6914E2761A657F8EF347AA7E_
+#endif
+#ifndef cancelButtonIconImage
+#define cancelButtonIconImage _STCEFF01ACDF455A18E00E4C9007D8B4C74_
+#endif
+#ifndef _cancelButtonIconImage
+#define _cancelButtonIconImage __STCEFF01ACDF455A18E00E4C9007D8B4C74_
+#endif
+#ifndef setCancelButtonIconImage
+#define setCancelButtonIconImage set_STCEFF01ACDF455A18E00E4C9007D8B4C74_
+#endif
+#ifndef destructiveButtonIconImage
+#define destructiveButtonIconImage _STC479A90D9A9D0C98BFF6F1E261A437C01_
+#endif
+#ifndef _destructiveButtonIconImage
+#define _destructiveButtonIconImage __STC479A90D9A9D0C98BFF6F1E261A437C01_
+#endif
+#ifndef setDestructiveButtonIconImage
+#define setDestructiveButtonIconImage set_STC479A90D9A9D0C98BFF6F1E261A437C01_
+#endif
+#ifndef strokeThickness
+#define strokeThickness _STC8681894269A2347B6C3BBB095C80E0E4_
+#endif
+#ifndef _strokeThickness
+#define _strokeThickness __STC8681894269A2347B6C3BBB095C80E0E4_
+#endif
+#ifndef setStrokeThickness
+#define setStrokeThickness set_STC8681894269A2347B6C3BBB095C80E0E4_
+#endif
+#ifndef textFieldsHeight
+#define textFieldsHeight _STC779D5777000ABB33C177DE890E011C7A_
+#endif
+#ifndef _textFieldsHeight
+#define _textFieldsHeight __STC779D5777000ABB33C177DE890E011C7A_
+#endif
+#ifndef setTextFieldsHeight
+#define setTextFieldsHeight set_STC779D5777000ABB33C177DE890E011C7A_
+#endif
+#ifndef willDismissHandler
+#define willDismissHandler _STCC756F56EDBF7F3C17A818916849F962D_
+#endif
+#ifndef _willDismissHandler
+#define _willDismissHandler __STCC756F56EDBF7F3C17A818916849F962D_
+#endif
+#ifndef setWillDismissHandler
+#define setWillDismissHandler set_STCC756F56EDBF7F3C17A818916849F962D_
+#endif
+#ifndef backgroundRingView
+#define backgroundRingView _STCEED7CD18D76B0BF4439A5232F7EA7B4F_
+#endif
+#ifndef _backgroundRingView
+#define _backgroundRingView __STCEED7CD18D76B0BF4439A5232F7EA7B4F_
+#endif
+#ifndef setBackgroundRingView
+#define setBackgroundRingView set_STCEED7CD18D76B0BF4439A5232F7EA7B4F_
+#endif
+#ifndef finalScale
+#define finalScale _STC0121AA47CA430107CAEB3F0CE03904E6_
+#endif
+#ifndef _finalScale
+#define _finalScale __STC0121AA47CA430107CAEB3F0CE03904E6_
+#endif
+#ifndef setFinalScale
+#define setFinalScale set_STC0121AA47CA430107CAEB3F0CE03904E6_
+#endif
+#ifndef cancelButtonIconImageHighlighted
+#define cancelButtonIconImageHighlighted _STCE758FCBADBB12F2084E8175DC4EB6345_
+#endif
+#ifndef _cancelButtonIconImageHighlighted
+#define _cancelButtonIconImageHighlighted __STCE758FCBADBB12F2084E8175DC4EB6345_
+#endif
+#ifndef setCancelButtonIconImageHighlighted
+#define setCancelButtonIconImageHighlighted set_STCE758FCBADBB12F2084E8175DC4EB6345_
+#endif
+
+#endif
+//------------------------------------------------------
+
+

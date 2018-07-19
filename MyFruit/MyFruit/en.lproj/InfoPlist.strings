@@ -1,0 +1,28 @@
+/* 
+  InfoPlist.strings
+  MyFruit
+  Created by 恋康科技 on 2018/1/16.
+  Copyright © 2018年 BCTeam. All rights reserved.
+*/
+
+CFBundleDisplayName = "FruitsMachine";
+
+/*
+-------------------标题-------------------
+The Fruits Machine
+フルーツマシン
+香甜水果机~甜美风水果老虎机βeτ365天撸个不停
+-------------------关键-------------------
+Fruits,Slot,Game,Machine,Apple,Banana,Orange
+フルーツ,スロット,ゲーム,マシン,アップル,バナナ,オレンジ
+香甜水果机老虎机电子电玩具777九五至尊365天游澳门真mg电子人ag娱乐城金沙银河美高梅新葡京威尼斯人皇冠棋牌游戏飞禽走兽泰坦bbin太阳城电玩城森林舞会街机上分钟下分钟投币赢话费
+准备删:方法老王老虎机器客户端倪闪电玩九五至尊敬金沙滩美高梅花去威尼斯人家游戏飞禽走兽泰坦森林舞会777街机场
+-------------------网址-------------------
+https://www.appcelerator.com/blog/2013/10/creating-a-slot-machine-game-with-platino/
+-------------------描述-------------------
+This game is purely entertainment. The winning or losing of the game has nothing to do with real money. The fruit machine's slot machine comes and experience the feeling of happy winning. In the game, you can choose the number of lines and the size of the bets. Click spin to know if you can win. The gameplay is simple and fun, and you can't come to experience the thrill of winning.
+ 
+このゲームは純粋にエンターテイメントです。ゲームの勝ち負けは本物のお金とは関係ありません。 フルーツマシンのスロットマシンが来て、幸せな勝利感を体験してください。 ゲームでは、ラインの数とベットのサイズを選択できます。 勝つことができるかどうかを知るためにスピンをクリックします。 ゲームプレイはシンプルで楽しく、勝利のスリルを体験することはできません。
+ 
+本游戏纯属娱乐，游戏的输赢跟现实金钱没有任何关系。水果系列的老虎机来了，一起来体验下开心赢钱的感觉。游戏中，你可以选择连接线的数量还有赌注的大小。点击spin即可知道是否赢钱。玩法简单有趣，还不快来体验一把赢钱的快感。
+*/
